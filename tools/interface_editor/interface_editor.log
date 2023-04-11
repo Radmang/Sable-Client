@@ -1,0 +1,2790 @@
+[25-11-2019 22:27:49] Starting application.
+[25-11-2019 22:27:51] Switching to render mode: full.
+[25-11-2019 22:28:10] Loading cache C:\Users\Michael\Desktop\rsps_trash\kourend\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[25-11-2019 22:28:12] Opening interface 139.
+[25-11-2019 22:28:13] Opening interface 0.
+[25-11-2019 22:28:14] Opening interface 193.
+[25-11-2019 22:28:14] Opening interface 197.
+[25-11-2019 22:28:15] Opening interface 201.
+[25-11-2019 22:28:15] Opening interface 205.
+[25-11-2019 22:28:16] Opening interface 297.
+[25-11-2019 22:28:18] Opening interface 306.
+[25-11-2019 22:28:18] Opening interface 310.
+[25-11-2019 22:28:19] Opening interface 315.
+[25-11-2019 22:28:19] Opening interface 321.
+[25-11-2019 22:28:20] Opening interface 328.
+[25-11-2019 22:28:21] Opening interface 341.
+[25-11-2019 22:28:22] Opening interface 356.
+[25-11-2019 22:28:22] Opening interface 341.
+[25-11-2019 22:28:22] Opening interface 356.
+[25-11-2019 22:28:23] Opening interface 359.
+[25-11-2019 22:28:23] Opening interface 363.
+[25-11-2019 22:28:23] Opening interface 368.
+[25-11-2019 22:28:23] Opening interface 374.
+[25-11-2019 22:28:24] Opening interface 425.
+[25-11-2019 22:28:24] Opening interface 446.
+[25-11-2019 22:28:25] Opening interface 638.
+[25-11-2019 22:28:25] Opening interface 671.
+[25-11-2019 22:28:25] Opening interface 638.
+[25-11-2019 22:28:26] Opening interface 446.
+[25-11-2019 22:28:26] Opening interface 638.
+[25-11-2019 22:28:27] Opening interface 671.
+[25-11-2019 22:28:28] Opening interface 716.
+[25-11-2019 22:28:28] Opening interface 776.
+[25-11-2019 22:28:28] Opening interface 802.
+[25-11-2019 22:28:29] Opening interface 837.
+[25-11-2019 22:28:29] Opening interface 876.
+[25-11-2019 22:28:29] Opening interface 904.
+[25-11-2019 22:28:30] Opening interface 962.
+[25-11-2019 22:28:30] Opening interface 904.
+[25-11-2019 22:28:30] Opening interface 876.
+[25-11-2019 22:28:31] Opening interface 904.
+[25-11-2019 22:28:32] Opening interface 962.
+[25-11-2019 22:28:32] Opening interface 968.
+[25-11-2019 22:28:33] Opening interface 973.
+[25-11-2019 22:28:33] Opening interface 979.
+[25-11-2019 22:28:33] Opening interface 986.
+[25-11-2019 22:28:33] Opening interface 994.
+[25-11-2019 22:28:34] Opening interface 1136.
+[25-11-2019 22:28:34] Opening interface 1151.
+[25-11-2019 22:28:35] Opening interface 1644.
+[25-11-2019 22:28:35] Opening interface 1689.
+[25-11-2019 22:28:36] Opening interface 1698.
+[25-11-2019 22:28:36] Opening interface 1689.
+[25-11-2019 22:28:36] Opening interface 1644.
+[25-11-2019 22:28:37] Opening interface 1689.
+[25-11-2019 22:28:38] Opening interface 1698.
+[25-11-2019 22:28:38] Opening interface 1743.
+[25-11-2019 22:28:39] Opening interface 1749.
+[25-11-2019 22:28:39] Opening interface 1764.
+[25-11-2019 22:28:40] Opening interface 1779.
+[25-11-2019 22:28:40] Opening interface 1829.
+[25-11-2019 22:28:41] Opening interface 1908.
+[25-11-2019 22:28:41] Opening interface 2005.
+[25-11-2019 22:28:42] Opening interface 2007.
+[25-11-2019 22:28:42] Opening interface 2156.
+[25-11-2019 22:28:44] Opening interface 2276.
+[25-11-2019 22:28:45] Opening interface 2302.
+[25-11-2019 22:29:16] Opening interface 2311.
+[25-11-2019 22:29:17] Opening interface 2400.
+[25-11-2019 22:29:17] Opening interface 2311.
+[25-11-2019 22:29:19] Opening interface 2400.
+[25-11-2019 22:29:20] Opening interface 2423.
+[25-11-2019 22:29:20] Opening interface 2400.
+[25-11-2019 22:29:22] Opening interface 2423.
+[25-11-2019 22:29:22] Opening interface 2449.
+[25-11-2019 22:29:24] Opening interface 2459.
+[25-11-2019 22:29:25] Opening interface 2469.
+[25-11-2019 22:29:25] Opening interface 2459.
+[25-11-2019 22:29:25] Opening interface 2449.
+[25-11-2019 22:29:26] Opening interface 2459.
+[25-11-2019 22:29:27] Opening interface 2469.
+[25-11-2019 22:29:27] Opening interface 2480.
+[25-11-2019 22:29:27] Opening interface 2492.
+[25-11-2019 22:29:28] Opening interface 2505.
+[25-11-2019 22:29:28] Opening interface 2653.
+[25-11-2019 22:29:29] Opening interface 2804.
+[25-11-2019 22:29:29] Opening interface 2653.
+[25-11-2019 22:29:30] Opening interface 2505.
+[25-11-2019 22:29:31] Opening interface 2653.
+[25-11-2019 22:29:31] Opening interface 2804.
+[25-11-2019 22:29:31] Opening interface 2808.
+[25-11-2019 22:29:32] Opening interface 2833.
+[25-11-2019 22:29:33] Opening interface 2808.
+[25-11-2019 22:29:33] Opening interface 2833.
+[25-11-2019 22:29:33] Opening interface 2851.
+[25-11-2019 22:29:42] Opening interface 3023.
+[25-11-2019 22:29:43] Opening interface 3038.
+[25-11-2019 22:29:43] Opening interface 3209.
+[25-11-2019 22:29:43] Opening interface 3213.
+[25-11-2019 22:29:44] Opening interface 3209.
+[25-11-2019 22:29:44] Opening interface 3213.
+[25-11-2019 22:29:44] Opening interface 3236.
+[25-11-2019 22:29:45] Opening interface 3249.
+[25-11-2019 22:29:45] Opening interface 3236.
+[25-11-2019 22:29:54] Switching to render mode: fixed.
+[25-11-2019 22:29:55] Switching to render mode: tab.
+[25-11-2019 22:29:57] Switching to background mode 1.
+[25-11-2019 22:30:00] Opening interface 3249.
+[25-11-2019 22:30:00] Opening interface 3279.
+[25-11-2019 22:30:01] Opening interface 3281.
+[25-11-2019 22:30:02] Opening interface 3279.
+[25-11-2019 22:30:03] Opening interface 3281.
+[25-11-2019 22:30:05] Opening interface 3321.
+[25-11-2019 22:30:05] Opening interface 3281.
+[25-11-2019 22:30:08] Switching to render mode: fixed.
+[25-11-2019 22:30:11] Switching to render mode: full.
+[25-11-2019 22:30:13] Opening interface 3321.
+[25-11-2019 22:30:14] Opening interface 3323.
+[25-11-2019 22:30:15] Opening interface 3443.
+[25-11-2019 22:30:18] Opening interface 3559.
+[25-11-2019 22:30:19] Opening interface 3702.
+[25-11-2019 22:30:21] Opening interface 3822.
+[25-11-2019 22:30:22] Opening interface 3824.
+[25-11-2019 22:30:22] Opening interface 3917.
+[25-11-2019 22:30:24] Opening interface 4161.
+[25-11-2019 22:30:25] Opening interface 3917.
+[25-11-2019 22:30:26] Opening interface 4161.
+[25-11-2019 22:30:27] Opening interface 4261.
+[25-11-2019 22:30:28] Opening interface 4267.
+[25-11-2019 22:30:29] Opening interface 4272.
+[25-11-2019 22:30:29] Opening interface 4277.
+[25-11-2019 22:30:30] Opening interface 4282.
+[25-11-2019 22:30:30] Opening interface 4305.
+[25-11-2019 22:30:31] Opening interface 4416.
+[25-11-2019 22:30:31] Opening interface 4305.
+[25-11-2019 22:30:31] Opening interface 4282.
+[25-11-2019 22:30:32] Opening interface 4305.
+[25-11-2019 22:30:32] Opening interface 4416.
+[25-11-2019 22:30:44] Updated property[key=alpha, value=1]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=5]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=15]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=24]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=35]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=50]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=60]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=73]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=78]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=84]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=88]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=93]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=97]
+[25-11-2019 22:30:44] Updated property[key=alpha, value=103]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=106]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=112]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=120]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=127]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=133]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=136]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=142]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=146]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=151]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=157]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=163]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=168]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=174]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=180]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=187]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=193]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=200]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=208]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=211]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=215]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=213]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=206]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=193]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=178]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=161]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=146]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=131]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=116]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=103]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=90]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=71]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=52]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=35]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=16]
+[25-11-2019 22:30:45] Updated property[key=alpha, value=0]
+[25-11-2019 22:30:46] Updated property[key=modelZoom, value=414]
+[25-11-2019 22:30:47] Updated property[key=modelZoom, value=415]
+[25-11-2019 22:30:47] Updated property[key=modelZoom, value=416]
+[25-11-2019 22:30:47] Updated property[key=modelZoom, value=417]
+[25-11-2019 22:30:47] Updated property[key=modelZoom, value=418]
+[25-11-2019 22:30:47] Updated property[key=modelZoom, value=419]
+[25-11-2019 22:30:47] Updated property[key=modelZoom, value=420]
+[25-11-2019 22:30:48] Updated property[key=modelZoom, value=421]
+[25-11-2019 22:30:48] Updated property[key=modelZoom, value=422]
+[25-11-2019 22:30:49] Updated property[key=modelZoom, value=421]
+[25-11-2019 22:30:49] Updated property[key=modelZoom, value=420]
+[25-11-2019 22:30:49] Updated property[key=modelZoom, value=419]
+[25-11-2019 22:30:49] Updated property[key=modelZoom, value=418]
+[25-11-2019 22:30:49] Updated property[key=modelZoom, value=417]
+[25-11-2019 22:30:50] Updated property[key=modelZoom, value=416]
+[25-11-2019 22:30:50] Updated property[key=modelZoom, value=415]
+[25-11-2019 22:30:52] Updated property[key=modelZoom, value=300]
+[25-11-2019 22:30:54] Updated property[key=modelZoom, value=414]
+[25-11-2019 22:30:56] Updated property[key=modelZoom, value=700]
+[25-11-2019 22:30:58] Updated property[key=modelZoom, value=414]
+[25-11-2019 22:31:06] Opening interface 4429.
+[25-11-2019 22:31:06] Opening interface 4443.
+[25-11-2019 22:31:07] Opening interface 4445.
+[25-11-2019 22:31:08] Opening interface 4446.
+[25-11-2019 22:31:09] Opening interface 4465.
+[25-11-2019 22:31:09] Opening interface 4471.
+[25-11-2019 22:31:11] Opening interface 4504.
+[25-11-2019 22:31:12] Opening interface 4535.
+[25-11-2019 22:31:12] Opening interface 4543.
+[25-11-2019 22:31:14] Opening interface 4558.
+[25-11-2019 22:31:15] Opening interface 4564.
+[25-11-2019 22:31:15] Opening interface 4679.
+[25-11-2019 22:31:16] Opening interface 4564.
+[25-11-2019 22:31:16] Opening interface 4679.
+[25-11-2019 22:31:17] Opening interface 4705.
+[25-11-2019 22:31:17] Opening interface 4731.
+[25-11-2019 22:31:17] Opening interface 4882.
+[25-11-2019 22:31:18] Opening interface 4887.
+[25-11-2019 22:31:18] Opening interface 4893.
+[25-11-2019 22:31:18] Opening interface 4900.
+[25-11-2019 22:31:18] Opening interface 4909.
+[25-11-2019 22:31:19] Opening interface 4919.
+[25-11-2019 22:31:19] Opening interface 4950.
+[25-11-2019 22:31:19] Opening interface 4958.
+[25-11-2019 22:31:20] Opening interface 4959.
+[25-11-2019 22:31:20] Opening interface 5063.
+[25-11-2019 22:31:20] Opening interface 5065.
+[25-11-2019 22:31:20] Opening interface 5292.
+[25-11-2019 22:31:20] Opening interface 5392.
+[25-11-2019 22:31:21] Opening interface 5292.
+[25-11-2019 22:31:21] Opening interface 5392.
+[25-11-2019 22:31:23] Opening interface 5454.
+[25-11-2019 22:31:23] Opening interface 5570.
+[25-11-2019 22:31:24] Opening interface 5596.
+[25-11-2019 22:31:25] Opening interface 5608.
+[25-11-2019 22:31:26] Opening interface 5706.
+[25-11-2019 22:31:27] Opening interface 5710.
+[25-11-2019 22:31:27] Opening interface 5715.
+[25-11-2019 22:31:28] Opening interface 5842.
+[25-11-2019 22:31:28] Opening interface 5848.
+[25-11-2019 22:31:28] Opening interface 5855.
+[25-11-2019 22:31:29] Opening interface 5875.
+[25-11-2019 22:31:30] Opening interface 5993.
+[25-11-2019 22:31:30] Opening interface 6014.
+[25-11-2019 22:31:31] Opening interface 6028.
+[25-11-2019 22:31:32] Opening interface 6084.
+[25-11-2019 22:31:32] Opening interface 6103.
+[25-11-2019 22:31:33] Opening interface 6084.
+[25-11-2019 22:31:34] Opening interface 6103.
+[25-11-2019 22:31:34] Opening interface 6152.
+[25-11-2019 22:31:35] Opening interface 6179.
+[25-11-2019 22:31:35] Opening interface 6206.
+[25-11-2019 22:31:36] Opening interface 6211.
+[25-11-2019 22:31:36] Opening interface 6216.
+[25-11-2019 22:31:37] Opening interface 6221.
+[25-11-2019 22:31:37] Opening interface 6226.
+[25-11-2019 22:31:37] Opening interface 6231.
+[25-11-2019 22:31:37] Opening interface 6237.
+[25-11-2019 22:31:37] Opening interface 6242.
+[25-11-2019 22:31:38] Opening interface 6247.
+[25-11-2019 22:31:38] Opening interface 6253.
+[25-11-2019 22:31:38] Opening interface 6258.
+[25-11-2019 22:31:38] Opening interface 6263.
+[25-11-2019 22:31:39] Opening interface 6299.
+[25-11-2019 22:31:39] Opening interface 6308.
+[25-11-2019 22:31:40] Opening interface 6299.
+[25-11-2019 22:31:40] Opening interface 6263.
+[25-11-2019 22:31:40] Opening interface 6299.
+[25-11-2019 22:31:41] Opening interface 6308.
+[25-11-2019 22:31:41] Opening interface 6412.
+[25-11-2019 22:31:42] Opening interface 6543.
+[25-11-2019 22:31:43] Opening interface 6554.
+[25-11-2019 22:31:44] Opening interface 6568.
+[25-11-2019 22:31:44] Opening interface 6573.
+[25-11-2019 22:31:45] Opening interface 6575.
+[25-11-2019 22:31:45] Opening interface 6675.
+[25-11-2019 22:31:46] Opening interface 6575.
+[25-11-2019 22:31:46] Opening interface 6675.
+[25-11-2019 22:31:47] Opening interface 6733.
+[25-11-2019 22:31:47] Opening interface 6946.
+[25-11-2019 22:31:48] Opening interface 6960.
+[25-11-2019 22:31:48] Opening interface 6965.
+[25-11-2019 22:31:48] Opening interface 6976.
+[25-11-2019 22:31:49] Opening interface 6988.
+[25-11-2019 22:31:49] Opening interface 6976.
+[25-11-2019 22:31:50] Opening interface 6965.
+[25-11-2019 22:31:50] Opening interface 6960.
+[25-11-2019 22:31:51] Opening interface 6965.
+[25-11-2019 22:31:51] Opening interface 6976.
+[25-11-2019 22:31:51] Opening interface 6988.
+[25-11-2019 22:31:52] Opening interface 6994.
+[25-11-2019 22:31:52] Opening interface 7045.
+[25-11-2019 22:31:53] Opening interface 7113.
+[25-11-2019 22:31:53] Opening interface 7162.
+[25-11-2019 22:31:53] Opening interface 7221.
+[25-11-2019 22:31:53] Opening interface 7271.
+[25-11-2019 22:31:55] Opening interface 7424.
+[25-11-2019 22:31:55] Opening interface 7762.
+[25-11-2019 22:31:56] Opening interface 8016.
+[25-11-2019 22:31:56] Opening interface 8119.
+[25-11-2019 22:31:57] Opening interface 8016.
+[25-11-2019 22:31:59] Opening interface 8119.
+[25-11-2019 22:31:59] Opening interface 8134.
+[25-11-2019 22:31:59] Opening interface 8207.
+[25-11-2019 22:32:00] Opening interface 8219.
+[25-11-2019 22:32:00] Opening interface 8287.
+[25-11-2019 22:32:00] Opening interface 8292.
+[25-11-2019 22:32:01] Opening interface 8460.
+[25-11-2019 22:32:01] Opening interface 8292.
+[25-11-2019 22:32:02] Opening interface 8460.
+[25-11-2019 22:32:02] Opening interface 8511.
+[25-11-2019 22:32:02] Opening interface 8460.
+[25-11-2019 22:32:03] Opening interface 8292.
+[25-11-2019 22:32:03] Opening interface 8460.
+[25-11-2019 22:32:03] Opening interface 8511.
+[25-11-2019 22:32:04] Opening interface 8559.
+[25-11-2019 22:32:04] Opening interface 8677.
+[25-11-2019 22:32:05] Opening interface 8680.
+[25-11-2019 22:32:05] Opening interface 8714.
+[25-11-2019 22:32:05] Opening interface 8680.
+[25-11-2019 22:32:07] Opening interface 8714.
+[25-11-2019 22:32:08] Opening interface 8866.
+[25-11-2019 22:32:08] Opening interface 8880.
+[25-11-2019 22:32:08] Opening interface 8899.
+[25-11-2019 22:32:09] Opening interface 8938.
+[25-11-2019 22:32:09] Opening interface 9043.
+[25-11-2019 22:32:09] Opening interface 9108.
+[25-11-2019 22:32:10] Opening interface 9196.
+[25-11-2019 22:32:10] Opening interface 9275.
+[25-11-2019 22:32:10] Opening interface 9359.
+[25-11-2019 22:32:10] Opening interface 9454.
+[25-11-2019 22:32:11] Opening interface 9507.
+[25-11-2019 22:32:11] Opening interface 9632.
+[25-11-2019 22:32:11] Opening interface 9720.
+[25-11-2019 22:32:11] Opening interface 9839.
+[25-11-2019 22:32:12] Opening interface 9929.
+[25-11-2019 22:32:12] Opening interface 9947.
+[25-11-2019 22:32:12] Opening interface 9929.
+[25-11-2019 22:32:13] Opening interface 9947.
+[25-11-2019 22:32:14] Opening interface 10051.
+[25-11-2019 22:32:14] Opening interface 10116.
+[25-11-2019 22:32:15] Opening interface 10294.
+[25-11-2019 22:32:15] Opening interface 10116.
+[25-11-2019 22:32:16] Opening interface 10294.
+[25-11-2019 22:32:17] Opening interface 10380.
+[25-11-2019 22:32:18] Opening interface 10503.
+[25-11-2019 22:32:19] Opening interface 10507.
+[25-11-2019 22:32:20] Opening interface 10617.
+[25-11-2019 22:32:20] Opening interface 10755.
+[25-11-2019 22:32:21] Opening interface 10870.
+[25-11-2019 22:32:21] Opening interface 10874.
+[25-11-2019 22:32:22] Opening interface 10984.
+[25-11-2019 22:32:22] Opening interface 11092.
+[25-11-2019 22:32:22] Opening interface 10984.
+[25-11-2019 22:36:24] Starting application.
+[25-11-2019 22:36:27] Switching to render mode: full.
+[25-11-2019 22:37:51] Loading cache C:\Users\Michael\Desktop\rsps_trash\kourend\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[25-11-2019 22:37:53] Opening interface 11891.
+[25-11-2019 22:37:54] Opening interface 11884.
+[25-11-2019 22:37:54] Opening interface 11877.
+[25-11-2019 22:37:54] Opening interface 11870.
+[25-11-2019 22:37:54] Opening interface 11864.
+[25-11-2019 22:37:55] Opening interface 11859.
+[25-11-2019 22:37:55] Opening interface 11485.
+[25-11-2019 22:37:55] Opening interface 11479.
+[25-11-2019 22:37:55] Opening interface 11462.
+[25-11-2019 22:37:55] Opening interface 11367.
+[25-11-2019 22:37:55] Opening interface 11344.
+[25-11-2019 22:37:56] Opening interface 11333.
+[25-11-2019 22:37:56] Opening interface 11169.
+[25-11-2019 22:37:56] Opening interface 11146.
+[25-11-2019 22:37:56] Opening interface 11169.
+[25-11-2019 22:37:56] Opening interface 11333.
+[25-11-2019 22:37:57] Opening interface 11169.
+[25-11-2019 22:37:57] Opening interface 11146.
+[25-11-2019 22:37:57] Opening interface 11126.
+[25-11-2019 22:37:58] Opening interface 11124.
+[25-11-2019 22:37:58] Opening interface 11104.
+[25-11-2019 22:37:58] Opening interface 11092.
+[25-11-2019 22:37:58] Opening interface 10984.
+[25-11-2019 22:37:58] Opening interface 10874.
+[25-11-2019 22:37:58] Opening interface 10870.
+[25-11-2019 22:37:59] Opening interface 10755.
+[25-11-2019 22:37:59] Opening interface 10870.
+[25-11-2019 22:37:59] Opening interface 10874.
+[25-11-2019 22:37:59] Opening interface 10984.
+[25-11-2019 22:38:19] Opening interface 11092.
+[25-11-2019 22:38:20] Opening interface 11104.
+[25-11-2019 22:38:20] Opening interface 11092.
+[25-11-2019 22:38:28] Opening interface 10984.
+[25-11-2019 22:38:43] Opening interface 11104.
+[25-11-2019 22:38:44] Opening interface 11124.
+[25-11-2019 22:38:44] Opening interface 11126.
+[25-11-2019 22:38:45] Opening interface 11146.
+[25-11-2019 22:38:45] Opening interface 11169.
+[25-11-2019 22:38:45] Opening interface 11146.
+[25-11-2019 22:38:46] Opening interface 11126.
+[25-11-2019 22:38:46] Opening interface 11146.
+[25-11-2019 22:38:46] Opening interface 11169.
+[25-11-2019 22:38:47] Opening interface 11333.
+[25-11-2019 22:38:47] Opening interface 11344.
+[25-11-2019 22:38:48] Opening interface 11367.
+[25-11-2019 22:38:48] Opening interface 11462.
+[25-11-2019 22:38:48] Opening interface 11479.
+[25-11-2019 22:38:49] Opening interface 11485.
+[25-11-2019 22:38:49] Opening interface 11859.
+[25-11-2019 22:38:50] Opening interface 11864.
+[25-11-2019 22:38:50] Opening interface 11870.
+[25-11-2019 22:38:50] Opening interface 11877.
+[25-11-2019 22:38:51] Opening interface 11884.
+[25-11-2019 22:38:51] Opening interface 11891.
+[25-11-2019 22:38:51] Opening interface 11898.
+[25-11-2019 22:38:52] Opening interface 11891.
+[25-11-2019 22:38:52] Opening interface 11884.
+[25-11-2019 22:38:52] Opening interface 11877.
+[25-11-2019 22:38:52] Opening interface 11870.
+[25-11-2019 22:38:52] Opening interface 11864.
+[25-11-2019 22:38:53] Opening interface 11859.
+[25-11-2019 22:38:53] Opening interface 11485.
+[25-11-2019 22:38:53] Opening interface 11479.
+[25-11-2019 22:38:54] Opening interface 11462.
+[25-11-2019 22:39:19] Adding new component 18786.
+[25-11-2019 22:39:27] Opening interface 11479.
+[25-11-2019 22:39:28] Opening interface 11462.
+[25-11-2019 22:39:28] Opening interface 11367.
+[25-11-2019 22:39:29] Opening interface 11462.
+[25-11-2019 22:39:30] Selected component 12412.
+[25-11-2019 22:39:35] Selected component 12400.
+[25-11-2019 22:39:43] Selected component 11468.
+[25-11-2019 22:39:43] Moving component 11468 with mouse.
+[25-11-2019 22:39:43] Selected component 12404.
+[25-11-2019 22:39:44] Selected component 12404.
+[25-11-2019 22:39:44] Moving component 12404 with mouse.
+[25-11-2019 22:39:44] Moving component 12404 with mouse.
+[25-11-2019 22:39:44] Moving component 12404 with mouse.
+[25-11-2019 22:39:44] Moving component 12404 with mouse.
+[25-11-2019 22:39:44] Selected component 12404.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:45] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:46] Moving component 12404 with mouse.
+[25-11-2019 22:39:47] Moving component 12404 with mouse.
+[25-11-2019 22:39:47] Moving component 12404 with mouse.
+[25-11-2019 22:39:47] Moving component 12404 with mouse.
+[25-11-2019 22:39:49] Opening interface 11479.
+[25-11-2019 22:39:50] Opening interface 12290.
+[25-11-2019 22:39:51] Opening interface 12346.
+[25-11-2019 22:39:51] Opening interface 12374.
+[25-11-2019 22:39:51] Opening interface 12378.
+[25-11-2019 22:39:51] Opening interface 12383.
+[25-11-2019 22:39:51] Opening interface 12414.
+[25-11-2019 22:39:52] Opening interface 12416.
+[25-11-2019 22:39:52] Opening interface 12418.
+[25-11-2019 22:39:52] Opening interface 12468.
+[25-11-2019 22:39:52] Opening interface 12586.
+[25-11-2019 22:39:52] Opening interface 12624.
+[25-11-2019 22:39:53] Opening interface 12586.
+[25-11-2019 22:39:53] Opening interface 12468.
+[25-11-2019 22:39:53] Opening interface 12586.
+[25-11-2019 22:39:53] Opening interface 12624.
+[25-11-2019 22:39:54] Opening interface 12737.
+[25-11-2019 22:39:54] Opening interface 12752.
+[25-11-2019 22:39:55] Opening interface 12773.
+[25-11-2019 22:39:55] Opening interface 12777.
+[25-11-2019 22:39:55] Opening interface 12782.
+[25-11-2019 22:39:55] Opening interface 12788.
+[25-11-2019 22:39:55] Opening interface 12790.
+[25-11-2019 22:39:56] Opening interface 12793.
+[25-11-2019 22:39:56] Opening interface 12797.
+[25-11-2019 22:39:56] Opening interface 12802.
+[25-11-2019 22:39:56] Opening interface 12811.
+[25-11-2019 22:39:56] Opening interface 12820.
+[25-11-2019 22:39:57] Opening interface 12853.
+[25-11-2019 22:39:57] Opening interface 12855.
+[25-11-2019 22:39:57] Opening interface 13103.
+[25-11-2019 22:39:58] Opening interface 12855.
+[25-11-2019 22:39:58] Opening interface 12853.
+[25-11-2019 22:39:58] Opening interface 12855.
+[25-11-2019 22:39:59] Opening interface 13103.
+[25-11-2019 22:39:59] Opening interface 13293.
+[25-11-2019 22:39:59] Opening interface 13390.
+[25-11-2019 22:39:59] Opening interface 13394.
+[25-11-2019 22:40:00] Opening interface 13486.
+[25-11-2019 22:40:00] Opening interface 13561.
+[25-11-2019 22:40:00] Opening interface 13578.
+[25-11-2019 22:40:00] Opening interface 13583.
+[25-11-2019 22:40:01] Opening interface 13585.
+[25-11-2019 22:40:01] Opening interface 13691.
+[25-11-2019 22:40:01] Opening interface 13585.
+[25-11-2019 22:40:01] Opening interface 13583.
+[25-11-2019 22:40:02] Opening interface 13578.
+[25-11-2019 22:40:03] Opening interface 13583.
+[25-11-2019 22:40:03] Opening interface 13585.
+[25-11-2019 22:40:03] Opening interface 13691.
+[25-11-2019 22:40:04] Opening interface 13710.
+[25-11-2019 22:40:04] Opening interface 13749.
+[25-11-2019 22:40:04] Opening interface 13758.
+[25-11-2019 22:40:05] Opening interface 13768.
+[25-11-2019 22:40:05] Opening interface 13782.
+[25-11-2019 22:40:05] Opening interface 13901.
+[25-11-2019 22:40:06] Opening interface 13782.
+[25-11-2019 22:40:06] Opening interface 13901.
+[25-11-2019 22:40:07] Opening interface 13929.
+[25-11-2019 22:40:07] Opening interface 13960.
+[25-11-2019 22:40:07] Opening interface 13975.
+[25-11-2019 22:40:08] Opening interface 13989.
+[25-11-2019 22:40:08] Opening interface 14062.
+[25-11-2019 22:40:09] Opening interface 14170.
+[25-11-2019 22:40:09] Opening interface 14187.
+[25-11-2019 22:40:09] Opening interface 14170.
+[25-11-2019 22:40:11] Opening interface 14187.
+[25-11-2019 22:40:12] Opening interface 14191.
+[25-11-2019 22:40:12] Opening interface 14206.
+[25-11-2019 22:40:12] Opening interface 14191.
+[25-11-2019 22:40:13] Opening interface 14206.
+[25-11-2019 22:40:13] Opening interface 14217.
+[25-11-2019 22:40:14] Opening interface 14230.
+[25-11-2019 22:40:14] Opening interface 14244.
+[25-11-2019 22:40:15] Opening interface 14378.
+[25-11-2019 22:40:15] Opening interface 14244.
+[25-11-2019 22:40:16] Opening interface 14230.
+[25-11-2019 22:40:16] Opening interface 14244.
+[25-11-2019 22:40:16] Opening interface 14378.
+[25-11-2019 22:40:17] Opening interface 14443.
+[25-11-2019 22:40:17] Opening interface 14456.
+[25-11-2019 22:40:17] Opening interface 14458.
+[25-11-2019 22:40:18] Opening interface 14578.
+[25-11-2019 22:40:18] Opening interface 14594.
+[25-11-2019 22:40:19] Opening interface 14600.
+[25-11-2019 22:40:19] Opening interface 14606.
+[25-11-2019 22:40:19] Opening interface 14654.
+[25-11-2019 22:40:20] Opening interface 14664.
+[25-11-2019 22:40:20] Opening interface 14670.
+[25-11-2019 22:40:20] Opening interface 14918.
+[25-11-2019 22:40:21] Opening interface 14924.
+[25-11-2019 22:40:22] Opening interface 15068.
+[25-11-2019 22:40:22] Opening interface 15100.
+[25-11-2019 22:40:22] Opening interface 15181.
+[25-11-2019 22:40:23] Opening interface 15192.
+[25-11-2019 22:40:23] Opening interface 15244.
+[25-11-2019 22:40:23] Opening interface 15267.
+[25-11-2019 22:40:23] Opening interface 15322.
+[25-11-2019 22:40:24] Opening interface 15328.
+[25-11-2019 22:40:24] Opening interface 15336.
+[25-11-2019 22:40:24] Opening interface 15353.
+[25-11-2019 22:40:25] Opening interface 15488.
+[25-11-2019 22:40:25] Opening interface 15500.
+[25-11-2019 22:40:25] Opening interface 15529.
+[25-11-2019 22:40:26] Opening interface 15541.
+[25-11-2019 22:40:26] Opening interface 15568.
+[25-11-2019 22:40:26] Opening interface 15588.
+[25-11-2019 22:40:26] Opening interface 15593.
+[25-11-2019 22:40:27] Opening interface 15614.
+[25-11-2019 22:40:27] Opening interface 15712.
+[25-11-2019 22:40:27] Opening interface 15767.
+[25-11-2019 22:40:28] Opening interface 15774.
+[25-11-2019 22:40:28] Opening interface 15791.
+[25-11-2019 22:40:28] Opening interface 15801.
+[25-11-2019 22:40:29] Opening interface 15812.
+[25-11-2019 22:40:29] Opening interface 15819.
+[25-11-2019 22:40:29] Opening interface 15831.
+[25-11-2019 22:40:30] Opening interface 15843.
+[25-11-2019 22:40:30] Opening interface 15892.
+[25-11-2019 22:40:30] Opening interface 15917.
+[25-11-2019 22:40:30] Opening interface 15931.
+[25-11-2019 22:40:31] Opening interface 15944.
+[25-11-2019 22:40:31] Opening interface 15962.
+[25-11-2019 22:40:32] Opening interface 15944.
+[25-11-2019 22:40:32] Opening interface 15931.
+[25-11-2019 22:40:33] Opening interface 15944.
+[25-11-2019 22:40:33] Opening interface 15962.
+[25-11-2019 22:40:34] Opening interface 16129.
+[25-11-2019 22:40:34] Opening interface 15962.
+[25-11-2019 22:40:35] Opening interface 16129.
+[25-11-2019 22:40:35] Opening interface 16135.
+[25-11-2019 22:40:36] Opening interface 16150.
+[25-11-2019 22:40:36] Opening interface 16152.
+[25-11-2019 22:40:36] Opening interface 16161.
+[25-11-2019 22:40:37] Opening interface 16276.
+[25-11-2019 22:40:37] Opening interface 16570.
+[25-11-2019 22:40:37] Opening interface 16574.
+[25-11-2019 22:40:38] Opening interface 16847.
+[25-11-2019 22:40:38] Opening interface 17073.
+[25-11-2019 22:40:38] Opening interface 17188.
+[25-11-2019 22:40:39] Opening interface 17192.
+[25-11-2019 22:40:39] Opening interface 17511.
+[25-11-2019 22:40:39] Opening interface 17522.
+[25-11-2019 22:40:40] Opening interface 17525.
+[25-11-2019 22:40:40] Opening interface 17537.
+[25-11-2019 22:40:40] Opening interface 17620.
+[25-11-2019 22:40:40] Opening interface 17634.
+[25-11-2019 22:40:41] Opening interface 17687.
+[25-11-2019 22:40:41] Opening interface 17774.
+[25-11-2019 22:40:41] Opening interface 17888.
+[25-11-2019 22:40:41] Opening interface 17907.
+[25-11-2019 22:40:42] Opening interface 18055.
+[25-11-2019 22:40:42] Opening interface 18164.
+[25-11-2019 22:40:42] Opening interface 18176.
+[25-11-2019 22:40:43] Opening interface 18178.
+[25-11-2019 22:40:43] Opening interface 18220.
+[25-11-2019 22:40:43] Opening interface 18281.
+[25-11-2019 22:40:44] Opening interface 18284.
+[25-11-2019 22:40:44] Opening interface 18288.
+[25-11-2019 22:40:44] Opening interface 18293.
+[25-11-2019 22:40:44] Opening interface 18299.
+[25-11-2019 22:40:45] Opening interface 18307.
+[25-11-2019 22:40:45] Opening interface 18299.
+[25-11-2019 22:40:46] Opening interface 18307.
+[25-11-2019 22:40:46] Opening interface 18322.
+[25-11-2019 22:40:47] Opening interface 18343.
+[25-11-2019 22:40:47] Opening interface 18418.
+[25-11-2019 22:40:48] Opening interface 18433.
+[25-11-2019 22:40:48] Opening interface 18436.
+[25-11-2019 22:40:48] Opening interface 18452.
+[25-11-2019 22:40:49] Opening interface 18436.
+[25-11-2019 22:40:50] Opening interface 18452.
+[25-11-2019 22:40:51] Opening interface 18436.
+[25-11-2019 22:40:51] Opening interface 18452.
+[25-11-2019 22:40:51] Opening interface 18456.
+[25-11-2019 22:40:52] Opening interface 18458.
+[25-11-2019 22:40:52] Opening interface 18460.
+[25-11-2019 22:40:52] Opening interface 18483.
+[25-11-2019 22:40:53] Opening interface 18497.
+[25-11-2019 22:40:53] Opening interface 18525.
+[25-11-2019 22:40:53] Opening interface 18676.
+[25-11-2019 22:40:54] Opening interface 18679.
+[25-11-2019 22:40:54] Opening interface 18676.
+[25-11-2019 22:40:54] Opening interface 18525.
+[25-11-2019 22:40:55] Opening interface 18676.
+[25-11-2019 22:40:55] Opening interface 18679.
+[25-11-2019 22:40:56] Opening interface 18681.
+[25-11-2019 22:40:56] Opening interface 18691.
+[25-11-2019 22:40:57] Opening interface 18681.
+[25-11-2019 22:40:57] Opening interface 18691.
+[25-11-2019 22:41:08] Opening interface 18681.
+[25-11-2019 22:41:19] Opening interface 17888.
+[25-11-2019 22:41:21] Opening interface 17888.
+[25-11-2019 22:41:21] Opening interface 15712.
+[25-11-2019 22:41:21] Opening interface 15712.
+[25-11-2019 22:41:21] Opening interface 15712.
+[25-11-2019 22:41:21] Opening interface 18691.
+[25-11-2019 22:41:26] Opening interface 638.
+[25-11-2019 22:41:27] Opening interface 962.
+[25-11-2019 22:41:27] Opening interface 638.
+[25-11-2019 22:41:29] Opening interface 638.
+[25-11-2019 22:41:30] Opening interface 638.
+[25-11-2019 22:41:30] Opening interface 638.
+[25-11-2019 22:41:30] Opening interface 147.
+[25-11-2019 22:41:30] Opening interface 147.
+[25-11-2019 22:41:30] Opening interface 147.
+[25-11-2019 22:41:30] Opening interface 147.
+[25-11-2019 22:41:31] Opening interface 876.
+[25-11-2019 22:41:31] Opening interface 962.
+[25-11-2019 22:41:31] Opening interface 1908.
+[25-11-2019 22:41:31] Opening interface 3323.
+[25-11-2019 22:41:31] Opening interface 3559.
+[25-11-2019 22:41:31] Opening interface 5875.
+[25-11-2019 22:41:31] Opening interface 6412.
+[25-11-2019 22:41:31] Opening interface 6575.
+[25-11-2019 22:41:31] Opening interface 6675.
+[25-11-2019 22:41:31] Opening interface 10294.
+[25-11-2019 22:41:31] Opening interface 10755.
+[25-11-2019 22:41:31] Opening interface 11479.
+[25-11-2019 22:41:31] Opening interface 15500.
+[25-11-2019 22:41:31] Opening interface 16161.
+[25-11-2019 22:41:31] Opening interface 17073.
+[25-11-2019 22:41:33] Opening interface 3323.
+[25-11-2019 22:41:33] Opening interface 3559.
+[25-11-2019 22:41:34] Opening interface 5875.
+[25-11-2019 22:41:34] Opening interface 3323.
+[25-11-2019 22:41:36] Opening interface 1908.
+[25-11-2019 22:41:36] Opening interface 962.
+[25-11-2019 22:41:36] Opening interface 876.
+[25-11-2019 22:41:37] Opening interface 147.
+[25-11-2019 22:41:44] Switching to background mode 1.
+[25-11-2019 22:42:33] Opening interface 297.
+[25-11-2019 22:42:35] Opening interface 3702.
+[25-11-2019 22:42:36] Opening interface 3559.
+[25-11-2019 22:42:36] Opening interface 3702.
+[25-11-2019 22:42:38] Adding new component 18786.
+[25-11-2019 22:42:46] Updated property[key=type, value=4]
+[25-11-2019 22:42:53] Updated property[key=shaded, value=true]
+[25-11-2019 22:42:54] Updated property[key=centeredText, value=true]
+[25-11-2019 22:43:03] Updated property[key=text, value=Hello there]
+[25-11-2019 22:43:10] Updated property[key=originalY, value=36]
+[25-11-2019 22:43:14] Updated property[key=originalHeight, value=36]
+[25-11-2019 22:43:17] Updated property[key=parentId, value=3791]
+[25-11-2019 22:43:17] Moving component 18786 from 3702 to 3791 .
+[25-11-2019 22:43:19] Updated property[key=parentId, value=3702]
+[25-11-2019 22:43:19] Moving component 18786 from 3791 to 3702 .
+[25-11-2019 22:43:25] Updated property[key=field2713, value=3702]
+[25-11-2019 22:43:26] Updated property[key=field2713, value=-1]
+[25-11-2019 22:43:29] Updated property[key=secondaryText, value=test]
+[25-11-2019 22:43:31] Updated property[key=textColor, value=-11724211]
+[25-11-2019 22:43:33] Updated property[key=textColor, value=-1]
+[25-11-2019 22:43:36] Switching to background mode 0.
+[25-11-2019 22:43:40] Updated property[key=alpha, value=1]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=3]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=7]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=11]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=15]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=20]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=30]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=39]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=52]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=69]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=82]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=97]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=110]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=121]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=133]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=144]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=153]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=161]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=168]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=174]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=176]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=178]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=181]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=185]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=189]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=193]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=195]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=198]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=202]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=206]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=208]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=210]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=211]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=213]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=217]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=221]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=223]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=230]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=234]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=240]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=243]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=247]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=249]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=251]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=249]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=247]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=241]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=236]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=226]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=213]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=200]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=183]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=165]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=148]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=127]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=106]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=84]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=63]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=41]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=22]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=3]
+[25-11-2019 22:43:40] Updated property[key=alpha, value=0]
+[25-11-2019 22:44:35] Selected component 3791.
+[25-11-2019 22:46:16] Updated property[key=optionType, value=1]
+[25-11-2019 22:46:18] Updated property[key=optionType, value=0]
+[25-11-2019 22:46:21] Selected component 3793.
+[25-11-2019 22:46:36] Updated property[key=originalX, value=36]
+[25-11-2019 22:46:39] Selected component 3791.
+[25-11-2019 22:46:44] Updated property[key=originalWidth, value=440]
+[25-11-2019 22:46:49] Selected component 18786.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:49] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:50] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:51] Moving component 18786 with mouse.
+[25-11-2019 22:46:54] Moving component 18786 with arrow keys.
+[25-11-2019 22:48:01] Saving interface 3702, packed successfully.
+[25-11-2019 22:49:06] Opening interface 3323.
+[25-11-2019 22:49:07] Opening interface 3443.
+[25-11-2019 22:49:07] Opening interface 3559.
+[25-11-2019 22:49:08] Opening interface 3702.
+[25-11-2019 22:49:08] Opening interface 3822.
+[25-11-2019 22:49:09] Opening interface 3796.
+[25-11-2019 22:49:10] Opening interface 3702.
+[25-11-2019 22:49:21] Opening interface 18681.
+[25-11-2019 22:49:21] Opening interface 18691.
+[25-11-2019 22:49:24] Opening interface 328.
+[25-11-2019 22:49:25] Opening interface 0.
+[25-11-2019 22:49:25] Opening interface 139.
+[25-11-2019 22:49:25] Opening interface 147.
+[25-11-2019 22:49:25] Opening interface 193.
+[25-11-2019 22:49:26] Opening interface 197.
+[25-11-2019 22:49:26] Opening interface 201.
+[25-11-2019 22:49:26] Opening interface 203.
+[25-11-2019 22:49:26] Opening interface 205.
+[25-11-2019 22:49:26] Opening interface 297.
+[25-11-2019 22:49:26] Opening interface 306.
+[25-11-2019 22:49:27] Opening interface 297.
+[25-11-2019 22:49:27] Opening interface 205.
+[25-11-2019 22:49:27] Opening interface 203.
+[25-11-2019 22:49:27] Opening interface 201.
+[25-11-2019 22:49:27] Opening interface 0.
+[25-11-2019 22:49:37] Opening interface 18691.
+[25-11-2019 22:49:38] Opening interface 18681.
+[25-11-2019 22:49:38] Opening interface 18679.
+[25-11-2019 22:49:38] Opening interface 18676.
+[25-11-2019 22:49:38] Opening interface 18679.
+[25-11-2019 22:49:38] Opening interface 18681.
+[25-11-2019 22:49:39] Opening interface 18691.
+[25-11-2019 22:49:44] Opening interface 0.
+[25-11-2019 22:49:44] Opening interface 139.
+[25-11-2019 22:49:44] Opening interface 147.
+[25-11-2019 22:49:45] Opening interface 139.
+[25-11-2019 22:49:45] Opening interface 0.
+[25-11-2019 22:49:45] Opening interface 139.
+[25-11-2019 22:49:45] Opening interface 147.
+[25-11-2019 22:49:46] Opening interface 139.
+[25-11-2019 22:49:46] Opening interface 0.
+[25-11-2019 22:49:58] Creating new interface 18787. Packed successfully.
+[25-11-2019 22:50:01] Opening interface 18691.
+[25-11-2019 22:50:02] Opening interface 18787.
+[25-11-2019 22:50:03] Adding new component 18788.
+[25-11-2019 22:50:08] Updated property[key=type, value=5]
+[25-11-2019 22:50:13] Opening interface 18681.
+[25-11-2019 22:50:14] Opening interface 18691.
+[25-11-2019 22:50:14] Opening interface 18787.
+[25-11-2019 22:50:19] Adding new component 18788.
+[25-11-2019 22:50:49] Switching to background mode 1.
+[25-11-2019 22:50:59] Opening interface 139.
+[25-11-2019 22:50:59] Opening interface 0.
+[25-11-2019 22:51:06] Updated property[key=spriteId, value=22]
+[25-11-2019 22:51:06] Updated property[key=originalWidth, value=68]
+[25-11-2019 22:51:06] Updated property[key=originalHeight, value=32]
+[25-11-2019 22:51:06] Updated property[key=spriteId, value=23]
+[25-11-2019 22:51:06] Updated property[key=originalWidth, value=88]
+[25-11-2019 22:51:06] Updated property[key=originalHeight, value=60]
+[25-11-2019 22:51:07] Updated property[key=spriteId, value=24]
+[25-11-2019 22:51:07] Updated property[key=originalWidth, value=24]
+[25-11-2019 22:51:07] Updated property[key=originalHeight, value=23]
+[25-11-2019 22:51:08] Updated property[key=spriteId, value=23]
+[25-11-2019 22:51:08] Updated property[key=originalWidth, value=88]
+[25-11-2019 22:51:08] Updated property[key=originalHeight, value=60]
+[25-11-2019 22:51:11] Updated property[key=spriteId, value=22]
+[25-11-2019 22:51:11] Updated property[key=originalWidth, value=68]
+[25-11-2019 22:51:11] Updated property[key=originalHeight, value=32]
+[25-11-2019 22:51:11] Updated property[key=spriteId, value=23]
+[25-11-2019 22:51:11] Updated property[key=originalWidth, value=88]
+[25-11-2019 22:51:11] Updated property[key=originalHeight, value=60]
+[25-11-2019 22:51:13] Selected component 86.
+[25-11-2019 22:51:13] Moving component 86 with mouse.
+[25-11-2019 22:51:14] Selected component 88.
+[25-11-2019 22:51:15] Selected component 31.
+[25-11-2019 22:51:16] Selected component 88.
+[25-11-2019 22:51:20] Updated property[key=spriteId, value=32]
+[25-11-2019 22:51:20] Updated property[key=originalWidth, value=16]
+[25-11-2019 22:51:20] Updated property[key=originalHeight, value=16]
+[25-11-2019 22:51:20] Updated property[key=spriteId, value=31]
+[25-11-2019 22:51:20] Updated property[key=originalWidth, value=36]
+[25-11-2019 22:51:20] Updated property[key=originalHeight, value=6]
+[25-11-2019 22:51:27] Opening interface 18787.
+[25-11-2019 22:51:28] Adding new component 18788.
+[25-11-2019 22:51:35] Updated property[key=type, value=3]
+[25-11-2019 22:51:40] Updated property[key=textColor, value=-3381709]
+[25-11-2019 22:51:41] Updated property[key=secondaryColor, value=-8375475]
+[25-11-2019 22:51:42] Updated property[key=defaultHoverColor, value=-8375475]
+[25-11-2019 22:51:43] Updated property[key=secondaryHoverColor, value=-39322]
+[25-11-2019 22:51:48] Updated property[key=filled, value=true]
+[25-11-2019 22:51:53] Switching to background mode 0.
+[25-11-2019 22:51:55] Switching to background mode 1.
+[25-11-2019 22:52:02] Updated property[key=type, value=6]
+[25-11-2019 22:52:05] Updated property[key=modelId, value=3]
+[25-11-2019 22:52:15] Updated property[key=field2713, value=18787]
+[25-11-2019 22:52:16] Updated property[key=field2713, value=-1]
+[25-11-2019 22:52:16] Selected component 18787.
+[25-11-2019 22:52:23] Updated property[key=originalHeight, value=36]
+[25-11-2019 22:52:26] Updated property[key=originalY, value=35]
+[25-11-2019 22:52:29] Selected component 18787.
+[25-11-2019 22:52:39] Updated property[key=originalWidth, value=47]
+[25-11-2019 22:52:41] Selected component 18788.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:41] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:42] Moving component 18788 with mouse.
+[25-11-2019 22:52:43] Moving component 18788 with mouse.
+[25-11-2019 22:52:43] Moving component 18788 with mouse.
+[25-11-2019 22:52:43] Moving component 18788 with mouse.
+[25-11-2019 22:52:47] Updated property[key=modelId, value=5]
+[25-11-2019 22:52:48] Updated property[key=modelId, value=8]
+[25-11-2019 22:52:51] Updated property[key=modelId, value=350]
+[25-11-2019 22:52:52] Selected component 18787.
+[25-11-2019 22:52:53] Selected component 18787.
+[25-11-2019 22:52:53] Selected component 18787.
+[25-11-2019 22:52:57] Updated property[key=modelId, value=250]
+[25-11-2019 22:53:00] Updated property[key=modelId, value=150]
+[25-11-2019 22:53:05] Updated property[key=originalY, value=25]
+[25-11-2019 22:53:07] Updated property[key=originalX, value=25]
+[25-11-2019 22:53:10] Updated property[key=modelId, value=2]
+[25-11-2019 22:53:12] Selected component 18788.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:12] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:13] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:14] Moving component 18788 with mouse.
+[25-11-2019 22:53:19] Switching to render mode: fixed.
+[25-11-2019 22:53:22] Switching to render mode: full.
+[25-11-2019 22:53:25] Updated property[key=originalY, value=5]
+[25-11-2019 22:53:26] Updated property[key=originalX, value=6]
+[25-11-2019 22:53:31] Updated property[key=modelId, value=15]
+[25-11-2019 22:53:32] Selected component 18788.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:32] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:33] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:34] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:35] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:36] Moving component 18788 with mouse.
+[25-11-2019 22:53:37] Moving component 18788 with mouse.
+[25-11-2019 22:53:37] Moving component 18788 with mouse.
+[25-11-2019 22:53:45] Updated property[key=modelZoom, value=1000]
+[25-11-2019 22:53:46] Selected component 18788.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:46] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:47] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with mouse.
+[25-11-2019 22:53:48] Moving component 18788 with arrow keys.
+[25-11-2019 22:53:53] Selected component 18787.
+[25-11-2019 22:53:54] Selected component 18788.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:54] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:55] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Selected component 18788.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:56] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:57] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:58] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:53:59] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:00] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:01] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:02] Moving component 18788 with mouse.
+[25-11-2019 22:54:04] Selected component 18788.
+[25-11-2019 22:54:05] Moving component 18788 with mouse.
+[25-11-2019 22:54:05] Moving component 18788 with mouse.
+[25-11-2019 22:54:05] Moving component 18788 with mouse.
+[25-11-2019 22:54:05] Moving component 18788 with mouse.
+[25-11-2019 22:54:05] Moving component 18788 with mouse.
+[25-11-2019 22:54:06] Updated property[key=rotationX, value=1]
+[25-11-2019 22:54:08] Updated property[key=alpha, value=1]
+[25-11-2019 22:54:08] Updated property[key=alpha, value=5]
+[25-11-2019 22:54:08] Updated property[key=alpha, value=13]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=26]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=41]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=56]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=67]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=78]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=88]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=101]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=112]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=123]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=131]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=142]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=150]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=159]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=166]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=174]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=181]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=189]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=198]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=208]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=217]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=228]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=236]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=241]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=245]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=249]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=253]
+[25-11-2019 22:54:09] Updated property[key=alpha, value=255]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=253]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=247]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=238]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=223]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=204]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=176]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=142]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=105]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=69]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=46]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=24]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=3]
+[25-11-2019 22:54:10] Updated property[key=alpha, value=0]
+[25-11-2019 22:54:14] Updated property[key=originalHeight, value=47]
+[25-11-2019 22:54:18] Selected component 18788.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:18] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:19] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:20] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:21] Moving component 18788 with mouse.
+[25-11-2019 22:54:25] Opening interface 18525.
+[25-11-2019 22:54:26] Opening interface 0.
+[25-11-2019 22:54:42] Opening interface 147.
+[25-11-2019 22:54:44] Opening interface 18691.
+[25-11-2019 22:54:44] Opening interface 18787.
+[25-11-2019 22:54:46] Opening interface 0.
+[25-11-2019 22:54:54] Copying component 0.
+[25-11-2019 22:54:56] Opening interface 18787.
+[25-11-2019 22:54:59] Pasted component 18788 into component 18787.
+[25-11-2019 22:55:02] Selected component 18918 (*).
+[25-11-2019 22:55:03] Moving component 18918 (*) with arrow keys.
+[25-11-2019 22:55:04] Removing component 18918 (*).
+[25-11-2019 22:55:05] Removing component 18919 (*).
+[25-11-2019 22:55:07] Removing component 18920 (*).
+[25-11-2019 22:55:08] Removing component 18921 (*).
+[25-11-2019 22:55:09] Removing component 18922 (*).
+[25-11-2019 22:55:11] Removing component 18923 (*).
+[25-11-2019 22:55:12] Removing component 18924 (*).
+[25-11-2019 22:55:13] Removing component 18925 (*).
+[25-11-2019 22:55:20] Selected component 18790.
+[25-11-2019 22:55:20] Selected component 18790.
+[25-11-2019 22:55:21] Selected component 18790.
+[25-11-2019 22:55:21] Selected component 18791.
+[25-11-2019 22:55:21] Selected component 18791.
+[25-11-2019 22:55:21] Moving component 18791 with mouse.
+[25-11-2019 22:55:21] Moving component 18791 with mouse.
+[25-11-2019 22:55:24] Selected component 18791.
+[25-11-2019 22:55:24] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:24] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:24] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:25] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:25] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:25] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:25] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:25] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:25] Moving component 18791 with arrow keys.
+[25-11-2019 22:55:30] Opening interface 18691.
+[25-11-2019 22:55:30] Opening interface 18787.
+[25-11-2019 22:55:32] Pasted component 18788 into component 18787.
+[25-11-2019 22:55:39] Opening interface 18676.
+[25-11-2019 22:55:39] Opening interface 18525.
+[25-11-2019 22:55:39] Opening interface 18497.
+[25-11-2019 22:55:40] Opening interface 18483.
+[25-11-2019 22:55:40] Opening interface 18460.
+[25-11-2019 22:55:40] Opening interface 18458.
+[25-11-2019 22:55:40] Opening interface 18456.
+[25-11-2019 22:55:40] Opening interface 18452.
+[25-11-2019 22:55:40] Opening interface 18436.
+[25-11-2019 22:55:41] Opening interface 18433.
+[25-11-2019 22:55:41] Opening interface 18418.
+[25-11-2019 22:55:41] Opening interface 18343.
+[25-11-2019 22:55:41] Opening interface 18322.
+[25-11-2019 22:55:41] Opening interface 18307.
+[25-11-2019 22:55:41] Opening interface 18299.
+[25-11-2019 22:55:41] Opening interface 18293.
+[25-11-2019 22:55:41] Opening interface 18288.
+[25-11-2019 22:55:42] Opening interface 18284.
+[25-11-2019 22:55:42] Opening interface 18281.
+[25-11-2019 22:55:42] Opening interface 18220.
+[25-11-2019 22:55:42] Opening interface 18178.
+[25-11-2019 22:55:42] Opening interface 18176.
+[25-11-2019 22:55:42] Opening interface 18164.
+[25-11-2019 22:55:42] Opening interface 18055.
+[25-11-2019 22:55:43] Opening interface 17907.
+[25-11-2019 22:55:43] Opening interface 17888.
+[25-11-2019 22:55:43] Opening interface 17774.
+[25-11-2019 22:55:43] Opening interface 17687.
+[25-11-2019 22:55:43] Opening interface 17634.
+[25-11-2019 22:55:43] Opening interface 17620.
+[25-11-2019 22:55:43] Opening interface 17537.
+[25-11-2019 22:55:44] Opening interface 17525.
+[25-11-2019 22:55:44] Opening interface 17522.
+[25-11-2019 22:55:44] Opening interface 17511.
+[25-11-2019 22:55:44] Opening interface 17192.
+[25-11-2019 22:55:44] Opening interface 17188.
+[25-11-2019 22:55:44] Opening interface 17073.
+[25-11-2019 22:55:44] Opening interface 16847.
+[25-11-2019 22:55:45] Opening interface 16574.
+[25-11-2019 22:55:45] Opening interface 16570.
+[25-11-2019 22:55:45] Opening interface 16276.
+[25-11-2019 22:55:45] Opening interface 16161.
+[25-11-2019 22:55:45] Opening interface 16152.
+[25-11-2019 22:55:45] Opening interface 16150.
+[25-11-2019 22:55:46] Opening interface 16135.
+[25-11-2019 22:55:46] Opening interface 16129.
+[25-11-2019 22:55:46] Opening interface 15962.
+[25-11-2019 22:55:46] Opening interface 15944.
+[25-11-2019 22:55:46] Opening interface 15931.
+[25-11-2019 22:55:46] Opening interface 15917.
+[25-11-2019 22:55:46] Opening interface 15892.
+[25-11-2019 22:55:46] Opening interface 15843.
+[25-11-2019 22:55:46] Opening interface 15831.
+[25-11-2019 22:55:46] Opening interface 15819.
+[25-11-2019 22:55:46] Opening interface 15812.
+[25-11-2019 22:55:46] Opening interface 15801.
+[25-11-2019 22:55:47] Opening interface 15791.
+[25-11-2019 22:55:47] Opening interface 15774.
+[25-11-2019 22:55:47] Opening interface 15767.
+[25-11-2019 22:55:47] Opening interface 15712.
+[25-11-2019 22:55:47] Opening interface 15614.
+[25-11-2019 22:55:47] Opening interface 15593.
+[25-11-2019 22:55:47] Opening interface 15588.
+[25-11-2019 22:55:47] Opening interface 15568.
+[25-11-2019 22:55:47] Opening interface 15541.
+[25-11-2019 22:55:48] Opening interface 15529.
+[25-11-2019 22:55:48] Opening interface 15500.
+[25-11-2019 22:55:48] Opening interface 15488.
+[25-11-2019 22:55:48] Opening interface 15353.
+[25-11-2019 22:55:48] Opening interface 15336.
+[25-11-2019 22:55:48] Opening interface 15328.
+[25-11-2019 22:55:49] Opening interface 15322.
+[25-11-2019 22:55:49] Opening interface 15267.
+[25-11-2019 22:55:49] Opening interface 15244.
+[25-11-2019 22:55:49] Opening interface 15192.
+[25-11-2019 22:55:49] Opening interface 15181.
+[25-11-2019 22:55:49] Opening interface 15100.
+[25-11-2019 22:55:49] Opening interface 15068.
+[25-11-2019 22:55:50] Opening interface 14924.
+[25-11-2019 22:55:50] Opening interface 14918.
+[25-11-2019 22:55:50] Opening interface 14670.
+[25-11-2019 22:55:50] Opening interface 14664.
+[25-11-2019 22:55:50] Opening interface 14654.
+[25-11-2019 22:55:50] Opening interface 14606.
+[25-11-2019 22:55:50] Opening interface 14600.
+[25-11-2019 22:55:51] Opening interface 14606.
+[25-11-2019 22:55:51] Opening interface 14654.
+[25-11-2019 22:55:51] Opening interface 14664.
+[25-11-2019 22:55:51] Opening interface 14670.
+[25-11-2019 22:55:52] Opening interface 14918.
+[25-11-2019 22:55:52] Opening interface 14670.
+[25-11-2019 22:55:52] Opening interface 14664.
+[25-11-2019 22:55:52] Opening interface 14654.
+[25-11-2019 22:55:52] Opening interface 14606.
+[25-11-2019 22:55:53] Opening interface 14600.
+[25-11-2019 22:55:53] Opening interface 14594.
+[25-11-2019 22:55:53] Opening interface 14578.
+[25-11-2019 22:55:53] Opening interface 14458.
+[25-11-2019 22:55:53] Opening interface 14456.
+[25-11-2019 22:55:53] Opening interface 14443.
+[25-11-2019 22:55:53] Opening interface 14378.
+[25-11-2019 22:55:54] Opening interface 14244.
+[25-11-2019 22:55:54] Opening interface 14230.
+[25-11-2019 22:55:54] Opening interface 14217.
+[25-11-2019 22:55:54] Opening interface 14206.
+[25-11-2019 22:55:54] Opening interface 14191.
+[25-11-2019 22:55:55] Opening interface 14187.
+[25-11-2019 22:55:55] Opening interface 14170.
+[25-11-2019 22:55:55] Opening interface 14062.
+[25-11-2019 22:55:55] Opening interface 13989.
+[25-11-2019 22:55:55] Opening interface 13975.
+[25-11-2019 22:55:55] Opening interface 13960.
+[25-11-2019 22:55:55] Opening interface 13929.
+[25-11-2019 22:55:56] Opening interface 13901.
+[25-11-2019 22:55:56] Opening interface 13782.
+[25-11-2019 22:55:56] Opening interface 13768.
+[25-11-2019 22:55:56] Opening interface 13758.
+[25-11-2019 22:55:56] Opening interface 13749.
+[25-11-2019 22:55:57] Opening interface 13758.
+[25-11-2019 22:55:57] Opening interface 13768.
+[25-11-2019 22:55:57] Opening interface 13782.
+[25-11-2019 22:57:47] Opening interface 18787.
+[25-11-2019 22:57:49] Adding new component 18788.
+[25-11-2019 22:57:52] Updated property[key=type, value=5]
+[25-11-2019 22:57:59] Updated property[key=secondarySpriteIndex, value=64]
+[25-11-2019 22:58:00] Updated property[key=secondarySpriteId, value=1]
+[25-11-2019 22:58:01] Updated property[key=secondarySpriteId, value=0]
+[25-11-2019 22:58:13] Updated property[key=type, value=5]
+[25-11-2019 22:58:18] Updated property[key=secondarySpriteIndex, value=64]
+[25-11-2019 22:58:19] Updated property[key=secondarySpriteId, value=0]
+[25-11-2019 22:58:25] Updated property[key=originalHeight, value=36]
+[25-11-2019 22:58:27] Updated property[key=originalX, value=6]
+[25-11-2019 22:58:35] Updated property[key=spriteId, value=0]
+[25-11-2019 22:58:38] Updated property[key=secondarySpriteId, value=1]
+[25-11-2019 22:58:38] Updated property[key=spriteId, value=1]
+[25-11-2019 22:58:43] Removing component 18788.
+[25-11-2019 22:58:51] Deleted interface 18787 successfully.
+[25-11-2019 22:58:51] Opening interface 18691.
+[25-11-2019 22:58:59] Creating new interface 18787. Packed successfully.
+[25-11-2019 22:59:02] Opening interface 18787.
+[25-11-2019 22:59:06] Adding new component 18788.
+[25-11-2019 22:59:09] Updated property[key=type, value=5]
+[25-11-2019 22:59:20] Updated property[key=secondarySpriteId, value=0]
+[25-11-2019 22:59:23] Updated property[key=spriteId, value=1]
+[25-11-2019 22:59:32] Updated property[key=originalY, value=32]
+[25-11-2019 22:59:41] Saving interface 18787, packed successfully.
+[25-11-2019 22:59:44] Opening interface 0.
+[25-11-2019 23:00:40] Opening interface 139.
+[25-11-2019 23:00:41] Opening interface 0.
+[25-11-2019 23:00:45] Opening interface 139.
+[25-11-2019 23:00:47] Opening interface 147.
+[25-11-2019 23:00:47] Opening interface 139.
+[25-11-2019 23:00:48] Opening interface 0.
+[25-11-2019 23:00:54] Updated property[key=spriteId, value=0]
+[25-11-2019 23:00:59] Updated property[key=spriteId, value=1]
+[25-11-2019 23:01:00] Updated property[key=spriteId, value=23]
+[25-11-2019 23:01:00] Updated property[key=originalWidth, value=88]
+[25-11-2019 23:01:00] Updated property[key=originalHeight, value=60]
+[25-11-2019 23:01:02] Updated property[key=spriteId, value=2]
+[25-11-2019 23:01:02] Updated property[key=originalWidth, value=4]
+[25-11-2019 23:01:02] Updated property[key=originalHeight, value=335]
+[25-11-2019 23:01:04] Updated property[key=spriteId, value=3]
+[25-11-2019 23:01:06] Updated property[key=spriteId, value=23]
+[25-11-2019 23:01:06] Updated property[key=originalWidth, value=88]
+[25-11-2019 23:01:06] Updated property[key=originalHeight, value=60]
+[25-11-2019 23:01:30] Opening interface 18787.
+[25-11-2019 23:01:39] Updated property[key=spriteId, value=0]
+[25-11-2019 23:01:39] Updated property[key=spriteIndex, value=63]
+[25-11-2019 23:01:44] Updated property[key=originalX, value=32]
+[25-11-2019 23:01:45] Updated property[key=originalWidth, value=32]
+[25-11-2019 23:01:45] Updated property[key=originalHeight, value=32]
+[25-11-2019 23:01:47] Selected component 18788.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:47] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:48] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Switching to background mode 0.
+[25-11-2019 23:01:52] Selected component 18788.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:52] Moving component 18788 with mouse.
+[25-11-2019 23:01:53] Moving component 18788 with mouse.
+[25-11-2019 23:01:53] Moving component 18788 with mouse.
+[25-11-2019 23:01:57] Updated property[key=spriteIndex, value=64]
+[25-11-2019 23:02:01] Updated property[key=spriteId, value=1]
+[25-11-2019 23:02:06] Updated property[key=secondarySpriteIndex, value=64]
+[25-11-2019 23:02:07] Updated property[key=secondarySpriteId, value=1]
+[25-11-2019 23:02:09] Updated property[key=spriteIndex, value=0]
+[25-11-2019 23:02:11] Updated property[key=spriteId, value=0]
+[25-11-2019 23:02:14] Updated property[key=spriteIndex, value=64]
+[25-11-2019 23:02:16] Updated property[key=spriteId, value=1]
+[25-11-2019 23:02:19] Updated property[key=spriteId, value=0]
+[25-11-2019 23:02:29] Loading cache C:\Users\Michael\Desktop\rsps_trash\kourend\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[25-11-2019 23:03:14] Opening interface 18787.
+[25-11-2019 23:03:25] Updated property[key=spriteId, value=2]
+[25-11-2019 23:03:25] Updated property[key=originalWidth, value=4]
+[25-11-2019 23:03:25] Updated property[key=originalHeight, value=335]
+[25-11-2019 23:03:28] Updated property[key=spriteId, value=0]
+[25-11-2019 23:03:30] Updated property[key=spriteIndex, value=64]
+[25-11-2019 23:03:31] Updated property[key=spriteIndex, value=63]
+[25-11-2019 23:03:35] Updated property[key=spriteIndex, value=62]
+[25-11-2019 23:03:35] Updated property[key=spriteIndex, value=61]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=60]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=59]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=58]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=57]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=56]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=55]
+[25-11-2019 23:03:36] Updated property[key=spriteIndex, value=54]
+[25-11-2019 23:03:37] Updated property[key=spriteIndex, value=53]
+[25-11-2019 23:03:37] Updated property[key=spriteIndex, value=52]
+[25-11-2019 23:03:38] Selected component 18788.
+[25-11-2019 23:03:38] Moving component 18788 with mouse.
+[25-11-2019 23:03:38] Moving component 18788 with mouse.
+[25-11-2019 23:03:38] Moving component 18788 with mouse.
+[25-11-2019 23:03:38] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:39] Moving component 18788 with mouse.
+[25-11-2019 23:03:43] Updated property[key=originalWidth, value=35]
+[25-11-2019 23:03:44] Updated property[key=originalHeight, value=35]
+[25-11-2019 23:03:48] Updated property[key=originalWidth, value=250]
+[25-11-2019 23:03:51] Updated property[key=originalHeight, value=250]
+[25-11-2019 23:03:53] Updated property[key=spriteIndex, value=51]
+[25-11-2019 23:03:53] Updated property[key=spriteIndex, value=50]
+[25-11-2019 23:03:53] Updated property[key=spriteIndex, value=49]
+[25-11-2019 23:03:53] Updated property[key=spriteIndex, value=48]
+[25-11-2019 23:03:54] Updated property[key=spriteIndex, value=49]
+[25-11-2019 23:03:54] Updated property[key=spriteIndex, value=50]
+[25-11-2019 23:03:55] Updated property[key=spriteIndex, value=51]
+[25-11-2019 23:03:55] Updated property[key=spriteIndex, value=52]
+[25-11-2019 23:03:55] Updated property[key=spriteIndex, value=53]
+[25-11-2019 23:03:55] Updated property[key=spriteIndex, value=54]
+[25-11-2019 23:03:55] Updated property[key=spriteIndex, value=55]
+[25-11-2019 23:03:55] Updated property[key=spriteIndex, value=56]
+[25-11-2019 23:03:56] Updated property[key=spriteIndex, value=57]
+[25-11-2019 23:03:56] Updated property[key=spriteIndex, value=58]
+[25-11-2019 23:03:56] Updated property[key=spriteIndex, value=59]
+[25-11-2019 23:03:56] Updated property[key=spriteIndex, value=60]
+[25-11-2019 23:03:56] Updated property[key=spriteIndex, value=61]
+[25-11-2019 23:03:57] Updated property[key=spriteIndex, value=62]
+[25-11-2019 23:03:57] Updated property[key=spriteIndex, value=63]
+[25-11-2019 23:03:57] Updated property[key=spriteIndex, value=64]
+[25-11-2019 23:03:58] Updated property[key=spriteIndex, value=63]
+[25-11-2019 23:04:02] Updated property[key=originalX, value=0]
+[25-11-2019 23:04:04] Updated property[key=originalY, value=0]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=1]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=3]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=5]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=7]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=9]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=11]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=13]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=15]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=16]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=18]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=33]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=35]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=39]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=41]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=45]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=46]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=50]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=52]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=54]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=76]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=80]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=84]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=88]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=90]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=255]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=253]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=251]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=249]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=245]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=241]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=238]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=234]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=232]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=228]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=223]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=217]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=213]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=210]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=204]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=198]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=193]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=187]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=181]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=178]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=172]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=163]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=155]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=150]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=144]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=136]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=125]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=118]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=108]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=101]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=91]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=84]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=75]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=67]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=60]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=56]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=45]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=39]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=31]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=26]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=20]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=11]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=5]
+[25-11-2019 23:04:09] Updated property[key=alpha, value=0]
+[25-11-2019 23:04:14] Updated property[key=secondarySpriteIndex, value=63]
+[25-11-2019 23:04:16] Updated property[key=secondarySpriteId, value=1]
+[25-11-2019 23:04:19] Updated property[key=spriteId, value=1]
+[25-11-2019 23:04:21] Updated property[key=spriteId, value=2]
+[25-11-2019 23:04:22] Updated property[key=spriteIndex, value=0]
+[25-11-2019 23:04:24] Selected component 18788.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:24] Moving component 18788 with mouse.
+[25-11-2019 23:04:26] Updated property[key=spriteId, value=0]
+[25-11-2019 23:04:31] Updated property[key=spriteIndex, value=63]
+[25-11-2019 23:04:33] Updated property[key=spriteIndex, value=62]
+[25-11-2019 23:04:36] Updated property[key=spriteIndex, value=35]
+[25-11-2019 23:04:38] Updated property[key=spriteIndex, value=2]
+[25-11-2019 23:04:41] Updated property[key=spriteIndex, value=3]
+[25-11-2019 23:04:43] Updated property[key=spriteIndex, value=4]
+[25-11-2019 23:04:46] Updated property[key=spriteIndex, value=63]
+[25-11-2019 23:04:47] Updated property[key=spriteIndex, value=0]
+[25-11-2019 23:05:46] Updated property[key=spriteId, value=17]
+[25-11-2019 23:05:46] Updated property[key=originalWidth, value=25]
+[25-11-2019 23:05:46] Updated property[key=originalHeight, value=25]
+[25-11-2019 23:05:49] Updated property[key=spriteId, value=18]
+[25-11-2019 23:05:49] Updated property[key=originalWidth, value=25]
+[25-11-2019 23:05:49] Updated property[key=originalHeight, value=25]
+[25-11-2019 23:05:52] Updated property[key=spriteId, value=19]
+[25-11-2019 23:05:52] Updated property[key=originalWidth, value=34]
+[25-11-2019 23:05:52] Updated property[key=originalHeight, value=22]
+[25-11-2019 23:05:54] Updated property[key=spriteId, value=25]
+[25-11-2019 23:05:54] Updated property[key=originalWidth, value=10]
+[25-11-2019 23:05:54] Updated property[key=originalHeight, value=10]
+[25-11-2019 23:05:57] Updated property[key=spriteId, value=28]
+[25-11-2019 23:05:57] Updated property[key=originalWidth, value=45]
+[25-11-2019 23:05:57] Updated property[key=originalHeight, value=36]
+[25-11-2019 23:06:00] Updated property[key=spriteId, value=640]
+[25-11-2019 23:06:03] Updated property[key=spriteId, value=120]
+[25-11-2019 23:06:08] Updated property[key=secondarySpriteIndex, value=0]
+[25-11-2019 23:06:09] Updated property[key=spriteId, value=0]
+[25-11-2019 23:06:11] Updated property[key=spriteId, value=17]
+[25-11-2019 23:06:11] Updated property[key=originalWidth, value=25]
+[25-11-2019 23:06:11] Updated property[key=originalHeight, value=25]
+[25-11-2019 23:06:13] Updated property[key=spriteId, value=18]
+[25-11-2019 23:06:13] Updated property[key=originalWidth, value=25]
+[25-11-2019 23:06:13] Updated property[key=originalHeight, value=25]
+[25-11-2019 23:06:15] Updated property[key=spriteId, value=250]
+[25-11-2019 23:06:19] Updated property[key=spriteId, value=150]
+[25-11-2019 23:06:21] Updated property[key=spriteId, value=80]
+[25-11-2019 23:06:23] Updated property[key=spriteId, value=50]
+[25-11-2019 23:06:23] Updated property[key=originalWidth, value=67]
+[25-11-2019 23:06:23] Updated property[key=originalHeight, value=67]
+[25-11-2019 23:06:26] Updated property[key=spriteId, value=60]
+[25-11-2019 23:06:26] Updated property[key=originalWidth, value=104]
+[25-11-2019 23:06:26] Updated property[key=originalHeight, value=104]
+[25-11-2019 23:06:27] Updated property[key=spriteId, value=70]
+[25-11-2019 23:06:29] Updated property[key=spriteId, value=69]
+[25-11-2019 23:06:32] Updated property[key=spriteId, value=65]
+[25-11-2019 23:06:34] Updated property[key=spriteId, value=60]
+[25-11-2019 23:06:34] Updated property[key=originalWidth, value=104]
+[25-11-2019 23:06:34] Updated property[key=originalHeight, value=104]
+[25-11-2019 23:06:36] Updated property[key=spriteId, value=61]
+[25-11-2019 23:06:36] Updated property[key=originalWidth, value=104]
+[25-11-2019 23:06:36] Updated property[key=originalHeight, value=104]
+[25-11-2019 23:06:38] Updated property[key=spriteId, value=62]
+[25-11-2019 23:06:38] Updated property[key=originalWidth, value=64]
+[25-11-2019 23:06:38] Updated property[key=originalHeight, value=64]
+[25-11-2019 23:06:39] Updated property[key=spriteId, value=64]
+[25-11-2019 23:06:39] Updated property[key=originalWidth, value=487]
+[25-11-2019 23:06:39] Updated property[key=originalHeight, value=306]
+[25-11-2019 23:06:41] Selected component 18788.
+[25-11-2019 23:06:41] Moving component 18788 with mouse.
+[25-11-2019 23:06:41] Moving component 18788 with mouse.
+[25-11-2019 23:06:41] Moving component 18788 with mouse.
+[25-11-2019 23:06:41] Moving component 18788 with mouse.
+[25-11-2019 23:06:41] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:42] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:43] Moving component 18788 with mouse.
+[25-11-2019 23:06:44] Moving component 18788 with mouse.
+[25-11-2019 23:06:44] Moving component 18788 with mouse.
+[25-11-2019 23:06:44] Moving component 18788 with mouse.
+[25-11-2019 23:06:44] Moving component 18788 with mouse.
+[25-11-2019 23:06:45] Moving component 18788 with mouse.
+[25-11-2019 23:06:45] Moving component 18788 with mouse.
+[25-11-2019 23:06:45] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Selected component 18788.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:48] Moving component 18788 with mouse.
+[25-11-2019 23:06:50] Moving component 18788 with mouse.
+[25-11-2019 23:06:50] Moving component 18788 with mouse.
+[25-11-2019 23:06:50] Moving component 18788 with mouse.
+[25-11-2019 23:06:50] Moving component 18788 with mouse.
+[25-11-2019 23:06:50] Moving component 18788 with mouse.
+[25-11-2019 23:06:50] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:51] Moving component 18788 with mouse.
+[25-11-2019 23:06:52] Moving component 18788 with mouse.
+[25-11-2019 23:06:52] Moving component 18788 with mouse.
+[25-11-2019 23:06:52] Moving component 18788 with mouse.
+[25-11-2019 23:06:52] Moving component 18788 with mouse.
+[25-11-2019 23:06:52] Moving component 18788 with mouse.
+[25-11-2019 23:06:53] Moving component 18788 with mouse.
+[25-11-2019 23:06:53] Moving component 18788 with mouse.
+[25-11-2019 23:06:53] Moving component 18788 with mouse.
+[25-11-2019 23:06:53] Moving component 18788 with mouse.
+[25-11-2019 23:06:53] Moving component 18788 with mouse.
+[25-11-2019 23:06:53] Moving component 18788 with mouse.
+[25-11-2019 23:07:01] Updated property[key=spriteIndex, value=1]
+[25-11-2019 23:07:02] Updated property[key=spriteIndex, value=0]
+[25-11-2019 23:07:09] Adding new component 18789.
+[25-11-2019 23:07:12] Updated property[key=type, value=4]
+[25-11-2019 23:07:14] Updated property[key=fontId, value=3]
+[25-11-2019 23:07:19] Updated property[key=defaultHoverColor, value=-3381709]
+[25-11-2019 23:07:22] Updated property[key=secondaryHoverColor, value=-3381709]
+[25-11-2019 23:07:46] Updated property[key=originalWidth, value=240]
+[25-11-2019 23:07:50] Updated property[key=originalHeight, value=24]
+[25-11-2019 23:07:52] Selected component 18789.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:52] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:53] Moving component 18789 with mouse.
+[25-11-2019 23:07:58] Updated property[key=textColor, value=-8375475]
+[25-11-2019 23:07:59] Updated property[key=shaded, value=true]
+[25-11-2019 23:08:00] Updated property[key=centeredText, value=true]
+[25-11-2019 23:08:15] Updated property[key=secondaryColor, value=-5020032]
+[25-11-2019 23:08:19] Updated property[key=originalHeight, value=47]
+[25-11-2019 23:08:27] Updated property[key=text, value=Text Goes Here]
+[25-11-2019 23:08:37] Updated property[key=text, value=Text Goes Here Long One Long One Long One]
+[25-11-2019 23:08:40] Updated property[key=fontId, value=1]
+[25-11-2019 23:08:41] Updated property[key=fontId, value=2]
+[25-11-2019 23:08:43] Updated property[key=fontId, value=0]
+[25-11-2019 23:08:45] Updated property[key=fontId, value=2]
+[25-11-2019 23:08:51] Updated property[key=shaded, value=false]
+[25-11-2019 23:08:52] Updated property[key=shaded, value=true]
+[25-11-2019 23:08:54] Updated property[key=textColor, value=-1671091]
+[25-11-2019 23:08:57] Updated property[key=textColor, value=-3381709]
+[25-11-2019 23:09:00] Updated property[key=textColor, value=-3375053]
+[25-11-2019 23:09:03] Selected component 18789.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:03] Moving component 18789 with mouse.
+[25-11-2019 23:09:04] Moving component 18789 with mouse.
+[25-11-2019 23:09:04] Moving component 18789 with mouse.
+[25-11-2019 23:09:04] Moving component 18789 with mouse.
+[25-11-2019 23:09:04] Moving component 18789 with mouse.
+[25-11-2019 23:09:04] Moving component 18789 with mouse.
+[25-11-2019 23:09:04] Moving component 18789 with mouse.
+[25-11-2019 23:09:05] Moving component 18789 with mouse.
+[25-11-2019 23:09:05] Moving component 18789 with mouse.
+[25-11-2019 23:09:09] Updated property[key=centeredText, value=false]
+[25-11-2019 23:09:09] Updated property[key=centeredText, value=true]
+[25-11-2019 23:09:15] Updated property[key=originalWidth, value=260]
+[25-11-2019 23:09:16] Selected component 18789.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:16] Moving component 18789 with mouse.
+[25-11-2019 23:09:17] Moving component 18789 with mouse.
+[25-11-2019 23:09:17] Moving component 18789 with mouse.
+[25-11-2019 23:09:17] Moving component 18789 with mouse.
+[25-11-2019 23:09:17] Moving component 18789 with mouse.
+[25-11-2019 23:09:17] Moving component 18789 with mouse.
+[25-11-2019 23:09:17] Moving component 18789 with mouse.
+[25-11-2019 23:09:18] Moving component 18789 with mouse.
+[25-11-2019 23:09:18] Moving component 18789 with mouse.
+[25-11-2019 23:09:18] Moving component 18789 with mouse.
+[25-11-2019 23:09:18] Moving component 18789 with mouse.
+[25-11-2019 23:09:18] Moving component 18789 with mouse.
+[25-11-2019 23:09:18] Moving component 18789 with mouse.
+[25-11-2019 23:09:23] Updated property[key=originalHeight, value=24]
+[25-11-2019 23:09:50] Saving interface 18787, packed successfully.
+[25-11-2019 23:10:06] Saving interface 18787, packed successfully.
+[25-11-2019 23:16:41] Saving interface 18787, packed successfully.
+[25-11-2019 23:30:07] Opening interface 18681.
+[25-11-2019 23:30:12] Opening interface 18787.
+[25-11-2019 23:30:17] Opening interface 18691.
+[25-11-2019 23:30:20] Opening interface 18787.
+[25-11-2019 23:30:28] Saving interface 18787, packed successfully.
+[25-11-2019 23:31:05] Opening interface 18452.
+[25-11-2019 23:31:07] Opening interface 0.
+[25-11-2019 23:31:11] Opening interface 18787.
+[25-11-2019 23:31:49] Opening interface 18691.
+[25-11-2019 23:31:49] Opening interface 18787.
+[25-11-2019 23:31:50] Opening interface 18691.
+[25-11-2019 23:31:52] Opening interface 18787.
+[25-11-2019 23:31:58] Saving interface 18787, packed successfully.
+[25-11-2019 23:31:59] Opening interface 18691.
+[25-11-2019 23:31:59] Opening interface 18787.
+[25-11-2019 23:32:04] Updated property[key=originalWidth, value=512]
+[25-11-2019 23:32:06] Updated property[key=originalHeight, value=334]
+[25-11-2019 23:32:10] Selected component 18787.
+[25-11-2019 23:32:10] Moving component 18787 with arrow keys.
+[25-11-2019 23:32:10] Moving component 18787 with arrow keys.
+[25-11-2019 23:32:13] Saving interface 18787, packed successfully.
+[25-11-2019 23:32:17] Saving interface 18787, packed successfully.
+[25-11-2019 23:32:18] Opening interface 18691.
+[25-11-2019 23:32:18] Opening interface 18787.
+[25-11-2019 23:32:51] Selected component 18788.
+[25-11-2019 23:32:51] Moving component 18788 with mouse.
+[25-11-2019 23:32:51] Moving component 18788 with mouse.
+[25-11-2019 23:32:51] Moving component 18788 with mouse.
+[25-11-2019 23:32:51] Moving component 18788 with mouse.
+[25-11-2019 23:32:51] Moving component 18788 with mouse.
+[25-11-2019 23:32:51] Moving component 18788 with mouse.
+[25-11-2019 23:32:53] Moving component 18788 with arrow keys.
+[25-11-2019 23:32:53] Moving component 18788 with arrow keys.
+[25-11-2019 23:32:54] Selected component 18787.
+[25-11-2019 23:32:56] Opening interface 18691.
+[25-11-2019 23:32:56] Opening interface 18787.
+[25-11-2019 23:33:07] Opening interface 0.
+[25-11-2019 23:33:14] Opening interface 18787.
+[25-11-2019 23:33:36] Selected component 18788.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:36] Moving component 18788 with mouse.
+[25-11-2019 23:33:37] Moving component 18788 with mouse.
+[25-11-2019 23:33:37] Moving component 18788 with mouse.
+[25-11-2019 23:33:37] Moving component 18788 with mouse.
+[25-11-2019 23:33:37] Moving component 18788 with mouse.
+[25-11-2019 23:33:38] Moving component 18788 with mouse.
+[25-11-2019 23:33:38] Moving component 18788 with mouse.
+[25-11-2019 23:33:43] Opening interface 0.
+[25-11-2019 23:33:47] Opening interface 18787.
+[25-11-2019 23:33:48] Selected component 18788.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:48] Moving component 18788 with mouse.
+[25-11-2019 23:33:49] Moving component 18788 with mouse.
+[25-11-2019 23:33:49] Moving component 18788 with mouse.
+[25-11-2019 23:33:49] Moving component 18788 with mouse.
+[25-11-2019 23:33:49] Moving component 18788 with mouse.
+[25-11-2019 23:33:49] Moving component 18788 with mouse.
+[25-11-2019 23:33:51] Selected component 18789.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:51] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:52] Moving component 18789 with mouse.
+[25-11-2019 23:33:53] Moving component 18789 with mouse.
+[25-11-2019 23:33:56] Saving interface 18787, packed successfully.
+[25-11-2019 23:33:59] Moving component 18789 with arrow keys.
+[25-11-2019 23:33:59] Moving component 18789 with arrow keys.
+[25-11-2019 23:34:53] Selected component 18789.
+[25-11-2019 23:34:53] Moving component 18789 with mouse.
+[25-11-2019 23:34:54] Moving component 18789 with mouse.
+[25-11-2019 23:35:06] Saving interface 18787, packed successfully.
+[26-11-2019 12:48:21] Starting application.
+[26-11-2019 12:48:25] Switching to render mode: full.
+[26-11-2019 15:53:55] Starting application.
+[26-11-2019 15:53:57] Switching to render mode: full.
+[26-11-2019 15:54:02] Loading cache C:\Users\Michael\Desktop\rsps_trash\kourend\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[26-11-2019 15:54:05] Opening interface 306.
+[26-11-2019 15:54:06] Opening interface 310.
+[26-11-2019 15:54:06] Opening interface 315.
+[26-11-2019 15:54:06] Opening interface 321.
+[26-11-2019 15:54:06] Opening interface 328.
+[26-11-2019 15:54:07] Opening interface 328.
+[26-11-2019 15:54:07] Opening interface 368.
+[26-11-2019 15:54:07] Opening interface 374.
+[26-11-2019 15:54:07] Opening interface 837.
+[26-11-2019 15:54:07] Opening interface 904.
+[26-11-2019 15:54:07] Opening interface 962.
+[26-11-2019 15:54:07] Opening interface 986.
+[26-11-2019 15:54:07] Opening interface 1151.
+[26-11-2019 15:54:07] Opening interface 1689.
+[26-11-2019 15:54:07] Opening interface 1779.
+[26-11-2019 15:54:07] Opening interface 1829.
+[26-11-2019 15:54:07] Opening interface 2276.
+[26-11-2019 15:54:07] Opening interface 2423.
+[26-11-2019 15:54:07] Opening interface 2480.
+[26-11-2019 15:54:07] Opening interface 2492.
+[26-11-2019 15:54:07] Opening interface 2808.
+[26-11-2019 15:54:07] Opening interface 3917.
+[26-11-2019 15:54:07] Opening interface 4445.
+[26-11-2019 15:54:07] Opening interface 4543.
+[26-11-2019 15:54:07] Opening interface 4558.
+[26-11-2019 15:54:07] Opening interface 4705.
+[26-11-2019 15:54:07] Opening interface 4900.
+[26-11-2019 15:54:07] Opening interface 5608.
+[26-11-2019 15:54:07] Opening interface 5855.
+[26-11-2019 15:54:07] Opening interface 5875.
+[26-11-2019 15:54:07] Opening interface 5875.
+[26-11-2019 15:54:07] Opening interface 6028.
+[26-11-2019 15:54:07] Opening interface 8134.
+[26-11-2019 15:54:07] Opening interface 13585.
+[26-11-2019 15:54:13] Opening interface 4882.
+[26-11-2019 15:54:15] Selected component 4882.
+[26-11-2019 15:54:17] Selected component 4883.
+[26-11-2019 20:02:16] Opening interface 18787.
+[26-11-2019 21:40:32] Updated property[key=alpha, value=1]
+[26-11-2019 21:40:32] Updated property[key=alpha, value=13]
+[26-11-2019 21:40:32] Updated property[key=alpha, value=39]
+[26-11-2019 21:40:32] Updated property[key=alpha, value=71]
+[26-11-2019 21:40:32] Updated property[key=alpha, value=95]
+[26-11-2019 21:40:32] Updated property[key=alpha, value=120]
+[26-11-2019 21:40:32] Updated property[key=alpha, value=142]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=163]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=191]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=211]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=225]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=238]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=243]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=247]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=249]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=251]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=255]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=253]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=238]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=221]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=210]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=208]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=206]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=202]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=198]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=195]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=189]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=183]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=181]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=180]
+[26-11-2019 21:40:33] Updated property[key=alpha, value=178]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=176]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=106]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=108]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=123]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=150]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=181]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=210]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=221]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=230]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=234]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=238]
+[26-11-2019 21:40:34] Updated property[key=alpha, value=240]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=241]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=243]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=245]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=247]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=251]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=253]
+[26-11-2019 21:40:35] Updated property[key=alpha, value=255]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=253]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=225]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=206]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=178]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=151]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=127]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=99]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=43]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=11]
+[26-11-2019 21:40:36] Updated property[key=alpha, value=0]
+[26-11-2019 21:40:39] Updated property[key=textColor, value=-5020134]
+[26-11-2019 21:40:41] Updated property[key=textColor, value=-1664691]
+[26-11-2019 21:40:44] Updated property[key=shaded, value=false]
+[26-11-2019 21:40:45] Updated property[key=shaded, value=true]
+[26-11-2019 21:42:13] Copying component 18788.
+[26-11-2019 21:42:13] Pasted component 18790 into component 18788.
+[26-11-2019 21:42:27] Removing component 18790.
+[26-11-2019 21:42:28] Adding new component 18790.
+[26-11-2019 21:42:31] Updated property[key=type, value=5]
+[26-11-2019 21:42:56] Updated property[key=spriteId, value=65]
+[26-11-2019 21:43:00] Updated property[key=spriteId, value=64]
+[26-11-2019 21:43:00] Updated property[key=originalWidth, value=487]
+[26-11-2019 21:43:00] Updated property[key=originalHeight, value=306]
+[26-11-2019 21:43:02] Updated property[key=spriteId, value=65]
+[26-11-2019 21:43:12] Updated property[key=spriteId, value=63]
+[26-11-2019 21:43:12] Updated property[key=originalWidth, value=251]
+[26-11-2019 21:43:12] Updated property[key=originalHeight, value=55815]
+[26-11-2019 21:43:15] Updated property[key=spriteId, value=65]
+[26-11-2019 21:43:19] Updated property[key=secondarySpriteId, value=65]
+[26-11-2019 21:43:23] Updated property[key=originalHeight, value=251]
+[26-11-2019 21:43:28] Updated property[key=originalY, value=36]
+[26-11-2019 21:43:28] Updated property[key=originalX, value=36]
+[26-11-2019 21:43:30] Updated property[key=originalWidth, value=251]
+[26-11-2019 21:43:36] Selected component 18790.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:37] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:38] Moving component 18790 with mouse.
+[26-11-2019 21:43:39] Moving component 18790 with mouse.
+[26-11-2019 21:43:39] Moving component 18790 with mouse.
+[26-11-2019 21:45:19] Updated property[key=originalWidth, value=21]
+[26-11-2019 21:45:20] Updated property[key=originalHeight, value=21]
+[26-11-2019 21:45:26] Updated property[key=type, value=4]
+[26-11-2019 21:45:28] Updated property[key=type, value=5]
+[26-11-2019 21:45:45] Loading cache C:\Users\Michael\Desktop\rsps_trash\kourend\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[26-11-2019 21:45:47] Opening interface 18787.
+[26-11-2019 21:45:50] Adding new component 18790.
+[26-11-2019 21:45:55] Updated property[key=type, value=5]
+[26-11-2019 21:47:10] Saving interface 18787, packed successfully.
+[26-11-2019 21:47:13] Loading cache C:\Users\Michael\Desktop\rsps_trash\kourend\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[26-11-2019 21:47:16] Opening interface 18787.
+[26-11-2019 21:48:43] Updated property[key=secondarySpriteId, value=64]
+[26-11-2019 21:48:43] Updated property[key=secondarySpriteId, value=64]
+[26-11-2019 21:48:50] Updated property[key=spriteId, value=64]
+[26-11-2019 21:48:50] Updated property[key=originalWidth, value=487]
+[26-11-2019 21:48:50] Updated property[key=originalHeight, value=306]
+[26-11-2019 21:48:50] Updated property[key=spriteId, value=64]
+[26-11-2019 21:48:50] Updated property[key=originalWidth, value=487]
+[26-11-2019 21:48:50] Updated property[key=originalHeight, value=306]
+[26-11-2019 21:48:52] Updated property[key=spriteIndex, value=1]
+[26-11-2019 21:48:58] Updated property[key=originalWidth, value=21]
+[26-11-2019 21:48:59] Updated property[key=originalHeight, value=21]
+[26-11-2019 21:49:00] Selected component 18790.
+[26-11-2019 21:49:00] Moving component 18790 with mouse.
+[26-11-2019 21:49:00] Moving component 18790 with mouse.
+[26-11-2019 21:49:00] Moving component 18790 with mouse.
+[26-11-2019 21:49:00] Moving component 18790 with mouse.
+[26-11-2019 21:49:00] Moving component 18790 with mouse.
+[26-11-2019 21:49:00] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:01] Moving component 18790 with mouse.
+[26-11-2019 21:49:02] Moving component 18790 with mouse.
+[26-11-2019 21:49:02] Moving component 18790 with mouse.
+[26-11-2019 21:49:02] Moving component 18790 with mouse.
+[26-11-2019 21:49:02] Moving component 18790 with mouse.
+[26-11-2019 21:49:04] Moving component 18790 with mouse.
+[26-11-2019 21:49:04] Moving component 18790 with mouse.
+[26-11-2019 21:49:04] Moving component 18790 with mouse.
+[26-11-2019 21:49:06] Moving component 18790 with arrow keys.
+[26-11-2019 21:49:08] Selected component 18790.
+[26-11-2019 21:49:08] Moving component 18790 with mouse.
+[26-11-2019 21:49:09] Moving component 18790 with mouse.
+[26-11-2019 21:49:09] Moving component 18790 with mouse.
+[26-11-2019 21:49:09] Moving component 18790 with mouse.
+[26-11-2019 21:49:10] Moving component 18790 with mouse.
+[26-11-2019 21:49:10] Moving component 18790 with mouse.
+[26-11-2019 21:49:14] Updated property[key=optionType, value=2]
+[26-11-2019 21:49:17] Updated property[key=optionType, value=0]
+[26-11-2019 21:49:20] Copying component 18790.
+[26-11-2019 21:49:20] Pasted component 18791 into component 18790.
+[26-11-2019 21:49:32] Removing component 18791.
+[26-11-2019 21:49:34] Adding new component 18791.
+[26-11-2019 21:49:37] Removing component 18791.
+[26-11-2019 21:49:38] Copying component 18790.
+[26-11-2019 21:49:39] Pasted component 18791 into component 18787.
+[26-11-2019 21:49:45] Updated property[key=spriteIndex, value=2]
+[26-11-2019 21:49:58] Updated property[key=optionType, value=2]
+[26-11-2019 21:50:08] Updated property[key=field2713, value=18787]
+[26-11-2019 21:50:10] Updated property[key=field2713, value=-1]
+[26-11-2019 21:57:03] Updated property[key=optionType, value=0]
+[26-11-2019 21:57:21] Opening interface 18452.
+[26-11-2019 21:57:23] Opening interface 139.
+[26-11-2019 21:57:24] Opening interface 147.
+[26-11-2019 21:57:24] Opening interface 193.
+[26-11-2019 21:57:24] Opening interface 197.
+[26-11-2019 21:57:24] Opening interface 201.
+[26-11-2019 21:57:24] Opening interface 203.
+[26-11-2019 21:57:24] Opening interface 205.
+[26-11-2019 21:57:25] Opening interface 203.
+[26-11-2019 21:57:25] Opening interface 201.
+[26-11-2019 21:57:25] Opening interface 197.
+[26-11-2019 21:57:25] Opening interface 193.
+[26-11-2019 21:57:25] Opening interface 147.
+[26-11-2019 22:17:32] Opening interface 18787.
+[26-11-2019 22:17:44] Adding new component 18791.
+[26-11-2019 22:17:56] Removing component 18791.
+[26-11-2019 22:18:07] Updated property[key=spriteId, value=64]
+[26-11-2019 22:18:07] Updated property[key=originalWidth, value=487]
+[26-11-2019 22:18:07] Updated property[key=originalHeight, value=306]
+[26-11-2019 22:18:07] Updated property[key=spriteId, value=64]
+[26-11-2019 22:18:07] Updated property[key=originalWidth, value=487]
+[26-11-2019 22:18:07] Updated property[key=originalHeight, value=306]
+[26-11-2019 22:18:09] Updated property[key=spriteIndex, value=1]
+[26-11-2019 22:18:09] Updated property[key=spriteIndex, value=2]
+[26-11-2019 22:18:10] Updated property[key=spriteIndex, value=1]
+[26-11-2019 22:18:14] Updated property[key=originalHeight, value=21]
+[26-11-2019 22:18:15] Updated property[key=originalWidth, value=21]
+[26-11-2019 22:18:16] Selected component 18790.
+[26-11-2019 22:18:16] Moving component 18790 with mouse.
+[26-11-2019 22:18:16] Moving component 18790 with mouse.
+[26-11-2019 22:18:16] Moving component 18790 with mouse.
+[26-11-2019 22:18:16] Moving component 18790 with mouse.
+[26-11-2019 22:18:16] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:17] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:18] Moving component 18790 with mouse.
+[26-11-2019 22:18:19] Moving component 18790 with mouse.
+[26-11-2019 22:18:19] Moving component 18790 with mouse.
+[26-11-2019 22:18:19] Moving component 18790 with mouse.
+[26-11-2019 22:18:19] Moving component 18790 with mouse.
+[26-11-2019 22:18:19] Moving component 18790 with mouse.
+[26-11-2019 22:18:20] Moving component 18790 with mouse.
+[26-11-2019 22:18:20] Moving component 18790 with mouse.
+[26-11-2019 22:18:20] Moving component 18790 with mouse.
+[26-11-2019 22:18:20] Moving component 18790 with mouse.
+[26-11-2019 22:18:20] Moving component 18790 with mouse.
+[26-11-2019 22:18:21] Moving component 18790 with mouse.
+[26-11-2019 22:18:21] Moving component 18790 with mouse.
+[26-11-2019 22:18:21] Moving component 18790 with mouse.
+[26-11-2019 22:18:33] Adding new component 18791.
+[26-11-2019 22:18:36] Adding new component 18792.
+[26-11-2019 22:18:40] Updated property[key=parentId, value=18791]
+[26-11-2019 22:18:40] Moving component 18792 from 18787 to 18791 .
+[26-11-2019 22:18:48] Updated property[key=type, value=5]
+[26-11-2019 22:18:53] Updated property[key=spriteIndex, value=2]
+[26-11-2019 22:18:57] Updated property[key=originalHeight, value=21]
+[26-11-2019 22:19:04] Updated property[key=originalY, value=27]
+[26-11-2019 22:19:13] Updated property[key=spriteId, value=64]
+[26-11-2019 22:19:13] Updated property[key=originalWidth, value=21]
+[26-11-2019 22:19:13] Updated property[key=originalHeight, value=21]
+[26-11-2019 22:19:21] Updated property[key=secondarySpriteIndex, value=2]
+[26-11-2019 22:19:21] Updated property[key=secondarySpriteId, value=64]
+[26-11-2019 22:19:27] Updated property[key=optionType, value=2]
+[26-11-2019 22:19:35] Updated property[key=field2713, value=18791]
+[26-11-2019 22:19:44] Updated property[key=originalX, value=468]
+[26-11-2019 22:19:47] Updated property[key=spriteIndex, value=1]
+[26-11-2019 22:19:48] Updated property[key=spriteIndex, value=2]
+[26-11-2019 22:19:49] Updated property[key=spriteIndex, value=3]
+[26-11-2019 22:19:49] Updated property[key=spriteIndex, value=2]
+[26-11-2019 22:19:49] Updated property[key=spriteIndex, value=1]
+[26-11-2019 22:19:49] Updated property[key=spriteIndex, value=0]
+[26-11-2019 22:19:51] Updated property[key=spriteIndex, value=1]
+[26-11-2019 22:19:51] Updated property[key=spriteIndex, value=2]
+[26-11-2019 22:20:01] Saving interface 18787, packed successfully.
+[26-11-2019 22:20:15] Saving interface 18787, packed successfully.
+[26-11-2019 22:21:00] Updated property[key=optionType, value=2]
+[26-11-2019 22:21:23] Updated property[key=optionType, value=5]
+[26-11-2019 22:21:47] Updated property[key=optionType, value=5]
+[26-11-2019 22:21:52] Updated property[key=optionType, value=0]
+[26-11-2019 22:21:57] Saving interface 18787, packed successfully.
+[26-11-2019 22:22:02] Saving interface 18787, packed successfully.
+[26-11-2019 22:26:05] Adding new component 18793.
+[26-11-2019 22:26:08] Updated property[key=type, value=5]
+[26-11-2019 22:26:11] Updated property[key=spriteId, value=0]
+[26-11-2019 22:26:11] Updated property[key=spriteId, value=1]
+[26-11-2019 22:26:11] Updated property[key=spriteId, value=2]
+[26-11-2019 22:26:11] Updated property[key=originalWidth, value=4]
+[26-11-2019 22:26:11] Updated property[key=originalHeight, value=335]
+[26-11-2019 22:26:12] Updated property[key=spriteId, value=3]
+[26-11-2019 22:26:14] Selected component 18792.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:14] Moving component 18792 with mouse.
+[26-11-2019 22:26:18] Updated property[key=originalY, value=25]
+[26-11-2019 22:26:19] Updated property[key=originalX, value=25]
+[26-11-2019 22:26:28] Updated property[key=originalY, value=25]
+[26-11-2019 22:26:29] Updated property[key=originalX, value=25]
+[26-11-2019 22:26:34] Saving interface 18787, packed successfully.
+[26-11-2019 22:26:56] Updated property[key=originalWidth, value=25]
+[26-11-2019 22:26:58] Updated property[key=originalHeight, value=25]
+[26-11-2019 22:27:02] Updated property[key=originalWidth, value=45]
+[26-11-2019 22:27:03] Updated property[key=originalHeight, value=45]
+[26-11-2019 22:27:06] Updated property[key=originalWidth, value=78]
+[26-11-2019 22:27:08] Updated property[key=originalHeight, value=78]
+[26-11-2019 22:27:10] Updated property[key=secondarySpriteId, value=0]
+[26-11-2019 22:27:10] Updated property[key=secondarySpriteId, value=1]
+[26-11-2019 22:27:10] Updated property[key=secondarySpriteId, value=2]
+[26-11-2019 22:27:10] Updated property[key=secondarySpriteId, value=3]
+[26-11-2019 22:27:17] Saving interface 18787, packed successfully.
+[26-11-2019 22:30:20] Removing component 18793.
+[26-11-2019 22:30:24] Adding new component 18793.
+[26-11-2019 22:30:28] Updated property[key=type, value=4]
+[26-11-2019 22:30:32] Updated property[key=text, value=asdfadsfasdfasdf]
+[26-11-2019 22:30:35] Updated property[key=originalWidth, value=345]
+[26-11-2019 22:30:37] Updated property[key=originalHeight, value=345]
+[26-11-2019 22:30:38] Selected component 18793.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:38] Moving component 18793 with mouse.
+[26-11-2019 22:30:39] Moving component 18793 with mouse.
+[26-11-2019 22:30:39] Moving component 18793 with mouse.
+[26-11-2019 22:30:39] Moving component 18793 with mouse.
+[26-11-2019 22:30:39] Moving component 18793 with mouse.
+[26-11-2019 22:30:39] Moving component 18793 with mouse.
+[26-11-2019 22:30:43] Saving interface 18787, packed successfully.
+[26-11-2019 22:31:34] Removing component 18793.
+[26-11-2019 22:31:38] Updated property[key=optionType, value=2]
+[26-11-2019 22:31:50] Saving interface 18787, packed successfully.
+[26-11-2019 22:41:24] Closing application.
+[30-11-2019 13:37:35] Starting application.
+[30-11-2019 13:37:38] Switching to render mode: full.
+[30-11-2019 13:37:48] Closing application.
+[30-11-2019 13:41:23] Starting application.
+[30-11-2019 13:41:26] Switching to render mode: full.
+[30-11-2019 13:41:40] Loading cache C:\Users\Michael\Desktop\necrotic_project\client\cache. 317=true, OSRS=false, interface_rev=-1.
+[30-11-2019 13:41:42] Opening interface 310.
+[30-11-2019 13:41:44] Opening interface 205.
+[30-11-2019 13:41:47] Opening interface 1151.
+[30-11-2019 13:41:49] Selected component 1158 (*).
+[30-11-2019 13:41:49] Selected component 1158 (*).
+[30-11-2019 13:41:50] Selected component 1158 (*).
+[30-11-2019 13:41:56] Updated property[key=scrollHeight, value=0]
+[30-11-2019 13:42:32] Updated property[key=scrollHeight, value=1]
+[30-11-2019 13:42:33] Updated property[key=scrollHeight, value=2]
+[30-11-2019 13:42:33] Updated property[key=scrollHeight, value=3]
+[30-11-2019 13:42:33] Updated property[key=scrollHeight, value=4]
+[30-11-2019 13:42:35] Updated property[key=scrollHeight, value=500]
+[30-11-2019 13:42:36] Selected component 1151.
+[30-11-2019 13:42:37] Selected component 1539 (*).
+[30-11-2019 13:42:38] Selected component 1163 (*).
+[30-11-2019 13:42:38] Selected component 1163 (*).
+[30-11-2019 13:42:39] Selected component 1163 (*).
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:39] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:40] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:41] Moving component 1163 (*) with mouse.
+[30-11-2019 13:42:50] Selected component 1158 (*).
+[30-11-2019 13:42:50] Selected component 12424.
+[30-11-2019 13:42:54] Updated property[key=originalHeight, value=200]
+[02-04-2020 17:34:39] Starting application.
+[02-04-2020 17:34:41] Switching to render mode: full.
+[02-04-2020 17:35:00] Loading cache C:\Users\Michael\xeros_cache_2. 317=true, OSRS=false, interface_rev=-1.
+[02-04-2020 17:35:55] Opening interface 157.
+[02-04-2020 17:35:57] Opening interface 149.
+[02-04-2020 17:35:57] Opening interface 149.
+[02-04-2020 17:35:57] Opening interface 147.
+[02-04-2020 17:35:57] Opening interface 147.
+[02-04-2020 17:35:57] Opening interface 328.
+[02-04-2020 17:35:57] Opening interface 837.
+[02-04-2020 17:35:57] Opening interface 904.
+[02-04-2020 17:35:57] Opening interface 1151.
+[02-04-2020 17:35:57] Opening interface 1563.
+[02-04-2020 17:35:57] Opening interface 1668.
+[02-04-2020 17:35:57] Opening interface 1689.
+[02-04-2020 17:35:57] Opening interface 1779.
+[02-04-2020 17:35:57] Opening interface 2808.
+[02-04-2020 17:35:57] Opening interface 3796.
+[02-04-2020 17:35:57] Opening interface 3917.
+[02-04-2020 17:35:57] Opening interface 4446.
+[02-04-2020 17:35:57] Opening interface 4558.
+[02-04-2020 17:35:57] Opening interface 5608.
+[02-04-2020 17:35:57] Opening interface 5875.
+[02-04-2020 17:35:57] Opening interface 6028.
+[02-04-2020 17:35:58] Opening interface 6308.
+[02-04-2020 17:35:58] Opening interface 6733.
+[02-04-2020 17:35:58] Opening interface 8134.
+[02-04-2020 17:35:58] Opening interface 8460.
+[02-04-2020 17:35:58] Opening interface 8714.
+[02-04-2020 17:35:58] Opening interface 12624.
+[02-04-2020 17:35:58] Opening interface 12855.
+[02-04-2020 17:35:58] Opening interface 13585.
+[02-04-2020 17:35:58] Opening interface 13691.
+[02-04-2020 17:35:58] Opening interface 15267.
+[02-04-2020 17:35:58] Opening interface 21172.
+[02-04-2020 17:36:06] Opening interface 12290.
+[02-04-2020 17:36:07] Selected component 12290.
+[02-04-2020 17:36:37] Updated property[key=hidden, value=false]
+[02-04-2020 17:36:39] Updated property[key=hidden, value=true]
+[02-04-2020 17:46:21] Opening interface 12130.
+[02-04-2020 17:46:21] Opening interface 12130.
+[02-04-2020 17:46:21] Opening interface 8134.
+[02-04-2020 17:46:21] Opening interface 8134.
+[02-04-2020 17:46:21] Opening interface 12855.
+[02-04-2020 17:46:21] Opening interface 13585.
+[02-04-2020 17:48:36] Opening interface 12290.
+[02-04-2020 20:21:50] Closing application.
+[07-04-2020 13:40:02] Starting application.
+[07-04-2020 13:40:03] Switching to render mode: full.
+[07-04-2020 13:40:07] Loading cache C:\Users\Michael\xeros_cache_2. 317=true, OSRS=false, interface_rev=-1.
+[07-04-2020 13:40:16] Opening interface 1829.
+[07-04-2020 13:40:30] Updated property[key=spriteId, value=38]
+[07-04-2020 13:40:30] Updated property[key=spriteId, value=37]
+[07-04-2020 13:40:30] Updated property[key=originalWidth, value=17]
+[07-04-2020 13:40:30] Updated property[key=originalHeight, value=17]
+[07-04-2020 13:40:31] Updated property[key=spriteId, value=36]
+[07-04-2020 13:40:31] Updated property[key=originalWidth, value=17]
+[07-04-2020 13:40:31] Updated property[key=originalHeight, value=17]
+[07-04-2020 13:40:32] Updated property[key=spriteId, value=37]
+[07-04-2020 13:40:32] Updated property[key=originalWidth, value=17]
+[07-04-2020 13:40:32] Updated property[key=originalHeight, value=17]
+[07-04-2020 13:40:33] Updated property[key=spriteId, value=36]
+[07-04-2020 13:40:33] Updated property[key=originalWidth, value=17]
+[07-04-2020 13:40:33] Updated property[key=originalHeight, value=17]
+[07-04-2020 13:40:34] Updated property[key=spriteId, value=37]
+[07-04-2020 13:40:34] Updated property[key=originalWidth, value=17]
+[07-04-2020 13:40:34] Updated property[key=originalHeight, value=17]
+[07-04-2020 13:44:25] Updated property[key=hidden, value=false]
+[07-04-2020 13:44:28] Updated property[key=hidden, value=true]
+[07-04-2020 13:58:59] Updated property[key=hidden, value=true]
+[07-04-2020 13:59:00] Updated property[key=hidden, value=false]
+[07-04-2020 13:59:03] Updated property[key=hidden, value=false]
+[07-04-2020 13:59:04] Updated property[key=hidden, value=true]
+[07-04-2020 14:11:08] Updated property[key=hidden, value=false]
+[07-04-2020 14:11:08] Updated property[key=hidden, value=true]
+[07-04-2020 15:06:41] Updated property[key=hidden, value=false]
+[07-04-2020 15:06:48] Selected component 1829.
+[07-04-2020 15:13:33] Closing application.
+[12-09-2020 16:17:08] Starting application.
+[12-09-2020 16:17:09] Switching to render mode: full.
+[12-09-2020 16:18:07] Loading cache C:\Users\Noah\Documents\GitHub\184_cache. 317=false, OSRS=true, interface_rev=-1.
+[12-09-2020 16:18:09] Opening interface 0.
+[12-09-2020 16:18:11] Opening interface 1.
+[12-09-2020 16:18:13] Opening interface 715.
+[12-09-2020 16:18:14] Opening interface 714.
+[12-09-2020 16:18:16] Opening interface 429.
+[12-09-2020 16:18:19] Opening interface 199.
+[12-09-2020 16:18:20] Opening interface 196.
+[12-09-2020 16:18:21] Opening interface 205.
+[12-09-2020 16:18:22] Opening interface 206.
+[12-09-2020 16:18:23] Opening interface 209.
+[12-09-2020 16:18:23] Opening interface 211.
+[12-09-2020 16:18:26] Opening interface 79.
+[12-09-2020 16:18:51] Closing application.
