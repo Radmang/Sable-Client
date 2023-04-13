@@ -30,7 +30,7 @@ public class Configuration {
 
 	public static final String CLIENT_TITLE = "Sable";
 	public static final String WEBSITE = "sable.ps";
-	public static final String DEDICATED_SERVER_ADDRESS = "26.189.48.220";//51.222.245.179
+	public static final String DEDICATED_SERVER_ADDRESS = "26.52.161.80"; //26.52.161.80 -> Tr1lla's Radmin IP
 	public static final String LOCAL_SERVER_ADDRESS = "127.0.0.1";
 	public static final String TEST_SERVER_ADDRESS = "127.0.0.1";//51.79.50.152
 	public static final int PORT = 52777;

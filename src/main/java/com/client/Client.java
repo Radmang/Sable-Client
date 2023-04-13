@@ -4065,12 +4065,14 @@ public class Client extends RSApplet {
 //				e.printStackTrace();
 //			}
 
+			runelite = false;
 			System.out.println("Running Java version " + getVersion());
 			Client.runelite = runelite;
 			Client.args = args;
 			StringBuilder windowTitleBuilder = new StringBuilder();
 			windowTitleBuilder.append(Configuration.CLIENT_TITLE);
 			server = Configuration.DEDICATED_SERVER_ADDRESS;
+			//server = Configuration.LOCAL_SERVER_ADDRESS;
 			setLoggingLevel(Level.INFO);
 
 			if (args.length > 0) {
@@ -4103,7 +4105,7 @@ public class Client extends RSApplet {
 							case "-l":
 							case "localhost":
 							case "local":
-								if (server.equals(Configuration.DEDICATED_SERVER_ADDRESS)) {
+								if (server.equals(Configuration.LOCAL_SERVER_ADDRESS)) {
 									server = "127.0.0.1";
 									System.out.println("Localhost client enabled.");
 								} else {
@@ -9987,7 +9989,7 @@ public class Client extends RSApplet {
 		} catch (IOException _ex) {
 			if (Configuration.developerMode) {
 				_ex.printStackTrace();
-				System.out.println("RAD'S ERROR: _ex IO exception out");
+				System.out.println("RAD'S ERROR: Error occurred ");
 			}
 
 
