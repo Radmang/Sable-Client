@@ -31,8 +31,8 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '8.1.1'
 }
 
-/*sourceCompatibility = 1.8
-targetCompatibility = 1.8*/
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 repositories {
     // Use jcenter for resolving your dependencies.
